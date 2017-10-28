@@ -14,6 +14,24 @@
     
     <url>
     
+      <loc>http://www.anirbanbasu.com/talk/nextgencrypto2015-kyushu/</loc>
+      <lastmod>2017-06-13T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://www.anirbanbasu.com/talk/securecloud2012-frankfurt/</loc>
+      <lastmod>2017-06-13T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://www.anirbanbasu.com/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -69,6 +87,15 @@
     <url>
     
       <loc>http://www.anirbanbasu.com/project/paillier-implementation/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://www.anirbanbasu.com/project/migravity/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -135,6 +162,16 @@
     
     <url>
     
+      <loc>http://www.anirbanbasu.com/tags/game/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://www.anirbanbasu.com/tags/homomorphic/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -187,6 +224,16 @@
     
       <loc>http://www.anirbanbasu.com/publication_types/</loc>
       <lastmod>2015-11-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://www.anirbanbasu.com/tags/randomness/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
