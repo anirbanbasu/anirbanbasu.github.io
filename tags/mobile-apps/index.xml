@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile Apps on anirban ‧ basu</title>
+    <link>https://www.anirbanbasu.com/tags/mobile-apps/</link>
+    <description>Recent content in Mobile Apps on anirban ‧ basu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {currentYear} Anirban Basu</copyright>
+    <lastBuildDate>Wed, 09 Dec 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.anirbanbasu.com/tags/mobile-apps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PA55 NYAPS</title>
+      <link>https://www.anirbanbasu.com/project/pa55nyaps/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anirbanbasu.com/project/pa55nyaps/</guid>
+      <description>The concept behind the original PA55 is that users do not need to remember complex passwords but should be able to deterministically generate complex passwords from rather simple information that the user can remember. Specifically, for every complex password, the user needs to remember a master secret (common for all passwords) and a hint (specific to each password).
+NYAPS – Not Yet Another Password Store – actually stores (of course, encrypted) something.</description>
+    </item>
+    
+    <item>
+      <title>mi gravity</title>
+      <link>https://www.anirbanbasu.com/project/migravity/</link>
+      <pubDate>Sun, 12 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anirbanbasu.com/project/migravity/</guid>
+      <description>The mi (pronounced mee) are strange creatures that fall freely under the effect of gravity and disappear upon touching the magical bottom of the screen. Your objective in the game is to collect as many mi as possible by touching them with the striker ball, and thereby increasing the gravity to 100%.
+Project website</description>
+    </item>
+    
+    <item>
+      <title>PA55</title>
+      <link>https://www.anirbanbasu.com/project/pa55/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anirbanbasu.com/project/pa55/</guid>
+      <description>pa55 is a new way to solve the problem of remembering difficult-to-guess passwords. The idea is to deterministically generate strong passwords based on some easy-to-remember but difficult-to-guess information. All you, as the user, have to remember is some information, not the actual passwords, and pa55 can generate the relevant passwords whenever you need.
+Project website</description>
+    </item>
+    
+  </channel>
+</rss>

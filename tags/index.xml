@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on anirban ‧ basu</title>
+    <link>https://www.anirbanbasu.com/tags/</link>
+    <description>Recent content in Tags on anirban ‧ basu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {currentYear} Anirban Basu</copyright>
+    <lastBuildDate>Fri, 05 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.anirbanbasu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Algorithms</title>
+      <link>https://www.anirbanbasu.com/tags/algorithms/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anirbanbasu.com/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptosystem</title>
+      <link>https://www.anirbanbasu.com/tags/cryptosystem/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anirbanbasu.com/tags/cryptosystem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Encryption</title>
+      <link>https://www.anirbanbasu.com/tags/encryption/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anirbanbasu.com/tags/encryption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game</title>
+      <link>https://www.anirbanbasu.com/tags/game/</link>
+      <pubDate>Sun, 12 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anirbanbasu.com/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homomorphic</title>
+      <link>https://www.anirbanbasu.com/tags/homomorphic/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anirbanbasu.com/tags/homomorphic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Library</title>
+      <link>https://www.anirbanbasu.com/tags/library/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anirbanbasu.com/tags/library/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile Apps</title>
+      <link>https://www.anirbanbasu.com/tags/mobile-apps/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anirbanbasu.com/tags/mobile-apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Password Manager</title>
+      <link>https://www.anirbanbasu.com/tags/password-manager/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anirbanbasu.com/tags/password-manager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Randomness</title>
+      <link>https://www.anirbanbasu.com/tags/randomness/</link>
+      <pubDate>Sun, 12 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anirbanbasu.com/tags/randomness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://www.anirbanbasu.com/tags/security/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anirbanbasu.com/tags/security/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Admin on anirban ‧ basu</title>
+    <link>https://www.anirbanbasu.com/authors/admin/</link>
+    <description>Recent content in Admin on anirban ‧ basu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {currentYear} Anirban Basu</copyright>
+    
+	<atom:link href="https://www.anirbanbasu.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://www.anirbanbasu.com/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anirbanbasu.com/author/admin/</guid>
+      <description>Summary With more than a decade of research experience within both academia and industry, I have co-authored 70+ research papers and submitted about 20 co-authored Japanese patent applications. My research is based on a user-centric view of privacy; and computational trust as an information security paradigm in an increasingly knowledge-based connected world. I like building things to solve real-world problems.
+Outside research and problem solving, I am keen on photography, videography and the associated travels.</description>
+    </item>
+    
+  </channel>
+</rss>
