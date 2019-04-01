@@ -4,11 +4,20 @@
     <title>anirban ‧ basu on anirban ‧ basu</title>
     <link>https://www.anirbanbasu.com/</link>
     <description>Recent content in anirban ‧ basu on anirban ‧ basu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-GB</language>
-    <copyright>&amp;copy; {currentYear} Anirban Basu</copyright>
-    <lastBuildDate>Tue, 13 Jun 2017 15:00:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en</language>
+    <copyright>&amp;copy; {year} Anirban Basu</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0900</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Posts</title>
+      <link>https://www.anirbanbasu.com/post/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0900</pubDate>
+      
+      <guid>https://www.anirbanbasu.com/post/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Homomorphic Encryption - an answer to privacy?</title>
@@ -26,8 +35,6 @@
       
       <guid>https://www.anirbanbasu.com/project/paillier-implementation/</guid>
       <description>&lt;p&gt;A Java implementation of the additively homomorphic Paillier cryptosystem that supports negative integers as plaintext.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/anirbanbasu/paillier-crypto&#34; target=&#34;_blank&#34;&gt;Project website&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -42,8 +49,6 @@
 &lt;p&gt;NYAPS – Not Yet Another Password Store – actually stores (of course, encrypted) something. Instead of storing complex passwords (like most password managers do), PA55 NYAPS stores information on how to generate the passwords. One could see it as storing the hint in PA55. These are called password generation settings or password settings or simply settings. Each such encrypted file can contain multiple settings for multiple passwords. However, the master secret is still not stored and is used to generate the complex passwords.&lt;/p&gt;
 
 &lt;p&gt;The settings stored include specifications of desired password length, an issue number (which helps with generating new passwords when the services require them refreshed periodically), and the choice of character sets. The user can now choose to include characters from brackets, digits, lowercase letters, special characters and uppercase letters.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://pa55.github.io/pa55nyaps/&#34; target=&#34;_blank&#34;&gt;Project website&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -63,8 +68,6 @@
       
       <guid>https://www.anirbanbasu.com/project/migravity/</guid>
       <description>&lt;p&gt;The mi (pronounced &lt;em&gt;mee&lt;/em&gt;) are strange creatures that fall freely under the effect of gravity and disappear upon touching the magical bottom of the screen. Your objective in the game is to collect as many mi as possible by touching them with the striker ball, and thereby increasing the gravity to 100%.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/app/id956153938&#34; target=&#34;_blank&#34;&gt;Project website&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -75,8 +78,6 @@
       
       <guid>https://www.anirbanbasu.com/project/pa55/</guid>
       <description>&lt;p&gt;pa55 is a new way to solve the problem of remembering difficult-to-guess passwords. The idea is to deterministically generate strong passwords based on some easy-to-remember but difficult-to-guess information. All you, as the user, have to remember is some information, not the actual passwords, and pa55 can generate the relevant passwords whenever you need.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://pa55.github.io/pa55/&#34; target=&#34;_blank&#34;&gt;Project website&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

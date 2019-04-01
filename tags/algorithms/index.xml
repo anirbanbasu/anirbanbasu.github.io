@@ -5,8 +5,8 @@
     <link>https://www.anirbanbasu.com/tags/algorithms/</link>
     <description>Recent content in Algorithms on anirban ‧ basu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-GB</language>
-    <copyright>&amp;copy; {currentYear} Anirban Basu</copyright>
+    <language>en</language>
+    <copyright>&amp;copy; {year} Anirban Basu</copyright>
     <lastBuildDate>Fri, 05 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.anirbanbasu.com/tags/algorithms/index.xml" rel="self" type="application/rss+xml" />
@@ -18,8 +18,7 @@
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.anirbanbasu.com/project/paillier-implementation/</guid>
-      <description>A Java implementation of the additively homomorphic Paillier cryptosystem that supports negative integers as plaintext.
-Project website</description>
+      <description>A Java implementation of the additively homomorphic Paillier cryptosystem that supports negative integers as plaintext.</description>
     </item>
     
   </channel>

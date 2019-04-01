@@ -5,8 +5,8 @@
     <link>https://www.anirbanbasu.com/tags/password-manager/</link>
     <description>Recent content in Password Manager on anirban ‧ basu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-GB</language>
-    <copyright>&amp;copy; {currentYear} Anirban Basu</copyright>
+    <language>en</language>
+    <copyright>&amp;copy; {year} Anirban Basu</copyright>
     <lastBuildDate>Wed, 09 Dec 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.anirbanbasu.com/tags/password-manager/index.xml" rel="self" type="application/rss+xml" />
@@ -28,8 +28,7 @@ NYAPS – Not Yet Another Password Store – actually stores (of course, encrypt
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>https://www.anirbanbasu.com/project/pa55/</guid>
-      <description>pa55 is a new way to solve the problem of remembering difficult-to-guess passwords. The idea is to deterministically generate strong passwords based on some easy-to-remember but difficult-to-guess information. All you, as the user, have to remember is some information, not the actual passwords, and pa55 can generate the relevant passwords whenever you need.
-Project website</description>
+      <description>pa55 is a new way to solve the problem of remembering difficult-to-guess passwords. The idea is to deterministically generate strong passwords based on some easy-to-remember but difficult-to-guess information. All you, as the user, have to remember is some information, not the actual passwords, and pa55 can generate the relevant passwords whenever you need.</description>
     </item>
     
   </channel>
