@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>password-manager on anirban ‧ basu</title>
-    <link>https://www.anirbanbasu.com/tags/password-manager/</link>
-    <description>Recent content in password-manager on anirban ‧ basu</description>
+    <title>apps on anirban ‧ basu</title>
+    <link>https://www.anirbanbasu.com/tags/apps/</link>
+    <description>Recent content in apps on anirban ‧ basu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; {year} Anirban Basu</copyright>
     <lastBuildDate>Wed, 09 Dec 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.anirbanbasu.com/tags/password-manager/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.anirbanbasu.com/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,6 +19,15 @@
       
       <guid>https://www.anirbanbasu.com/project/pa55nyaps/</guid>
       <description>PA55 NYAPS (Not Yet Another Password Store)</description>
+    </item>
+    
+    <item>
+      <title>mi gravity</title>
+      <link>https://www.anirbanbasu.com/project/migravity/</link>
+      <pubDate>Sun, 12 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anirbanbasu.com/project/migravity/</guid>
+      <description>A simple iOS game I once made</description>
     </item>
     
     <item>

@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>Algorithms</title>
+      <title>algorithms</title>
       <link>https://www.anirbanbasu.com/tags/algorithms/</link>
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
       
@@ -22,7 +22,7 @@
     </item>
     
     <item>
-      <title>Cryptosystem</title>
+      <title>cryptosystem</title>
       <link>https://www.anirbanbasu.com/tags/cryptosystem/</link>
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
       
@@ -31,7 +31,7 @@
     </item>
     
     <item>
-      <title>Encryption</title>
+      <title>encryption</title>
       <link>https://www.anirbanbasu.com/tags/encryption/</link>
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
       
@@ -40,16 +40,7 @@
     </item>
     
     <item>
-      <title>Game</title>
-      <link>https://www.anirbanbasu.com/tags/game/</link>
-      <pubDate>Sun, 12 Apr 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anirbanbasu.com/tags/game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Homomorphic</title>
+      <title>homomorphic</title>
       <link>https://www.anirbanbasu.com/tags/homomorphic/</link>
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
       
@@ -58,7 +49,7 @@
     </item>
     
     <item>
-      <title>Library</title>
+      <title>library</title>
       <link>https://www.anirbanbasu.com/tags/library/</link>
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
       
@@ -67,16 +58,34 @@
     </item>
     
     <item>
-      <title>Mobile Apps</title>
-      <link>https://www.anirbanbasu.com/tags/mobile-apps/</link>
-      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      <title>research</title>
+      <link>https://www.anirbanbasu.com/tags/research/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanbasu.com/tags/mobile-apps/</guid>
+      <guid>https://www.anirbanbasu.com/tags/research/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Password Manager</title>
+      <title>security</title>
+      <link>https://www.anirbanbasu.com/tags/security/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anirbanbasu.com/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apps</title>
+      <link>https://www.anirbanbasu.com/tags/apps/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anirbanbasu.com/tags/apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>password-manager</title>
       <link>https://www.anirbanbasu.com/tags/password-manager/</link>
       <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
       
@@ -85,20 +94,20 @@
     </item>
     
     <item>
-      <title>Randomness</title>
-      <link>https://www.anirbanbasu.com/tags/randomness/</link>
+      <title>game</title>
+      <link>https://www.anirbanbasu.com/tags/game/</link>
       <pubDate>Sun, 12 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanbasu.com/tags/randomness/</guid>
+      <guid>https://www.anirbanbasu.com/tags/game/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Security</title>
-      <link>https://www.anirbanbasu.com/tags/security/</link>
-      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      <title>randomness</title>
+      <link>https://www.anirbanbasu.com/tags/randomness/</link>
+      <pubDate>Sun, 12 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanbasu.com/tags/security/</guid>
+      <guid>https://www.anirbanbasu.com/tags/randomness/</guid>
       <description></description>
     </item>
     

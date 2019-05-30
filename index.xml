@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>anirban ‧ basu on anirban ‧ basu</title>
+    <title>anirban ‧ basu</title>
     <link>https://www.anirbanbasu.com/</link>
-    <description>Recent content in anirban ‧ basu on anirban ‧ basu</description>
+    <description>Recent content on anirban ‧ basu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en</language>
     <copyright>&amp;copy; {year} Anirban Basu</copyright>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0900</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+	    <atom:link href="https://www.anirbanbasu.com/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Posts</title>
