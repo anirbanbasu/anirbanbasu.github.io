@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Invited Talks</title>
+      <link>https://www.anirbanbasu.com/talk/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0900</pubDate>
+      
+      <guid>https://www.anirbanbasu.com/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Posts</title>
       <link>https://www.anirbanbasu.com/post/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0900</pubDate>
@@ -22,73 +31,20 @@
     </item>
     
     <item>
-      <title>Homomorphic Encryption - an answer to privacy?</title>
-      <link>https://www.anirbanbasu.com/talk/ifiptm2017-doctoral/</link>
-      <pubDate>Tue, 13 Jun 2017 15:00:00 +0900</pubDate>
+      <title>Projects</title>
+      <link>https://www.anirbanbasu.com/project/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0900</pubDate>
       
-      <guid>https://www.anirbanbasu.com/talk/ifiptm2017-doctoral/</guid>
+      <guid>https://www.anirbanbasu.com/project/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Paillier cryptosystem implementation</title>
-      <link>https://www.anirbanbasu.com/project/paillier-implementation/</link>
-      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      <title>Publications</title>
+      <link>https://www.anirbanbasu.com/publication/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0900</pubDate>
       
-      <guid>https://www.anirbanbasu.com/project/paillier-implementation/</guid>
-      <description>&lt;p&gt;A Java implementation of the additively homomorphic Paillier cryptosystem that supports negative integers as plaintext.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PA55 NYAPS</title>
-      <link>https://www.anirbanbasu.com/project/pa55nyaps/</link>
-      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anirbanbasu.com/project/pa55nyaps/</guid>
-      <description>&lt;p&gt;The concept behind the original PA55 is that users do not need to remember complex passwords but should be able to deterministically generate complex passwords from rather simple information that the user can remember. Specifically, for every complex password, the user needs to remember a master secret (common for all passwords) and a hint (specific to each password).&lt;/p&gt;
-
-&lt;p&gt;NYAPS – Not Yet Another Password Store – actually stores (of course, encrypted) something. Instead of storing complex passwords (like most password managers do), PA55 NYAPS stores information on how to generate the passwords. One could see it as storing the hint in PA55. These are called password generation settings or password settings or simply settings. Each such encrypted file can contain multiple settings for multiple passwords. However, the master secret is still not stored and is used to generate the complex passwords.&lt;/p&gt;
-
-&lt;p&gt;The settings stored include specifications of desired password length, an issue number (which helps with generating new passwords when the services require them refreshed periodically), and the choice of character sets. The user can now choose to include characters from brackets, digits, lowercase letters, special characters and uppercase letters.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Homomorphic Encryption - are we there yet?</title>
-      <link>https://www.anirbanbasu.com/talk/nextgencrypto2015-kyushu/</link>
-      <pubDate>Wed, 02 Sep 2015 11:00:00 +0900</pubDate>
-      
-      <guid>https://www.anirbanbasu.com/talk/nextgencrypto2015-kyushu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mi gravity</title>
-      <link>https://www.anirbanbasu.com/project/migravity/</link>
-      <pubDate>Sun, 12 Apr 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anirbanbasu.com/project/migravity/</guid>
-      <description>&lt;p&gt;The mi (pronounced &lt;em&gt;mee&lt;/em&gt;) are strange creatures that fall freely under the effect of gravity and disappear upon touching the magical bottom of the screen. Your objective in the game is to collect as many mi as possible by touching them with the striker ball, and thereby increasing the gravity to 100%.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PA55</title>
-      <link>https://www.anirbanbasu.com/project/pa55/</link>
-      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anirbanbasu.com/project/pa55/</guid>
-      <description>&lt;p&gt;pa55 is a new way to solve the problem of remembering difficult-to-guess passwords. The idea is to deterministically generate strong passwords based on some easy-to-remember but difficult-to-guess information. All you, as the user, have to remember is some information, not the actual passwords, and pa55 can generate the relevant passwords whenever you need.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Practical privacy using homomorphic encryption -- a myth or reality</title>
-      <link>https://www.anirbanbasu.com/talk/securecloud2012-frankfurt/</link>
-      <pubDate>Wed, 09 May 2012 10:00:00 +0900</pubDate>
-      
-      <guid>https://www.anirbanbasu.com/talk/securecloud2012-frankfurt/</guid>
+      <guid>https://www.anirbanbasu.com/publication/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>anirban ‧ basu</title>
@@ -10,15 +10,6 @@
     
 	<atom:link href="https://www.anirbanbasu.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>https://www.anirbanbasu.com/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.anirbanbasu.com/authors/admin/</guid>
-      <description>With more than a decade of research experience within both academia and industry, I have co-authored 75+ research papers and submitted about 20 co-authored Japanese patent applications. My research is based on a user-centric view of privacy; and computational trust as an information security paradigm in an increasingly knowledge-based connected world. The areas of research that interest me include, but are not limited to: computational trust systems, privacy and risk, privacy preserving data mining, artificial intelligence and ethics, cybersecurity, distributed consensus, and the Internet of Things.</description>
-    </item>
     
   </channel>
 </rss>
