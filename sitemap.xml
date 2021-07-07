@@ -1,141 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.anirbanbasu.com/</loc>
     <lastmod>2019-01-01T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/talk/</loc>
     <lastmod>2019-01-01T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/post/</loc>
     <lastmod>2019-01-01T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/project/</loc>
     <lastmod>2019-01-01T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/publication/</loc>
     <lastmod>2019-01-01T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/talk/ifiptm2017-doctoral/</loc>
     <lastmod>2017-06-13T15:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/tags/algorithms/</loc>
     <lastmod>2017-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/tags/cryptosystem/</loc>
     <lastmod>2017-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/tags/encryption/</loc>
     <lastmod>2017-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/tags/homomorphic/</loc>
     <lastmod>2017-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/tags/library/</loc>
     <lastmod>2017-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/project/paillier-implementation/</loc>
     <lastmod>2017-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/tags/research/</loc>
     <lastmod>2017-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/tags/security/</loc>
     <lastmod>2017-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/tags/</loc>
     <lastmod>2017-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/tags/apps/</loc>
     <lastmod>2015-12-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/project/pa55nyaps/</loc>
     <lastmod>2015-12-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/tags/password-manager/</loc>
     <lastmod>2015-12-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/talk/nextgencrypto2015-kyushu/</loc>
     <lastmod>2015-09-02T11:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/tags/game/</loc>
     <lastmod>2015-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/project/migravity/</loc>
     <lastmod>2015-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/tags/randomness/</loc>
     <lastmod>2015-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/project/pa55/</loc>
     <lastmod>2014-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/talk/securecloud2012-frankfurt/</loc>
     <lastmod>2012-05-09T10:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/authors/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/authors/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.anirbanbasu.com/publication_types/</loc>
   </url>
-  
 </urlset>
