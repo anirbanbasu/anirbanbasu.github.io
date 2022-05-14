@@ -11,6 +11,22 @@ experience:
     date_start: 2018-10-01
     date_end: 
     description: Working on several public and privately funded projects with international collaborations relating to computational trust and its applications, AI security, process mining and casual inference; amongst others.
+  - title: Honorary Research Fellow
+    company: University of Sussex
+    company_url: https://www.sussex.ac.uk/
+    company_logo: null
+    location: Brighton, UK
+    date_start: 2020-04-01
+    date_end: 
+    description: An Honorary Research Fellow within the Foundation of Software Systems group at the School of Engineering and Informatics.
+  - title: Secretary
+    company: IFIP Working Group 11.11 on Computational Trust
+    company_url: https://www.ifiptm.org/
+    company_logo: null
+    location: null
+    date_start: 2015-05-01
+    date_end: 
+    description: Secretary within the Executive Committee of the IFIP Working Group 11.11 on Computational Trust.
   - title: Research Engineer
     company: KDDI Research
     company_url: https://www.kddi-research.jp/english
