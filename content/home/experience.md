@@ -20,13 +20,13 @@ experience:
     date_end: 
     description: An Honorary Research Fellow within the Foundation of Software Systems group at the School of Engineering and Informatics.
   - title: Secretary
-    company: IFIP Working Group 11.11 on Computational Trust
+    company: IFIP Working Group 11.11 on Trust Management
     company_url: https://www.ifiptm.org/
     company_logo: null
     location: null
     date_start: 2015-05-01
     date_end: 
-    description: Secretary within the Executive Committee of the IFIP Working Group 11.11 on Computational Trust.
+    description: Secretary within the Executive Committee of the IFIP Working Group 11.11 on Trust Management.
   - title: Research Engineer
     company: KDDI Research
     company_url: https://www.kddi-research.jp/english
