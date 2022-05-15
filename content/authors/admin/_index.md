@@ -74,9 +74,12 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+<div style='text-align: justify'>
 With more than a decade of research experience within both academia and industry, I have co-authored 70+ research papers and 30+ Japanese patents. My publications have been cited more than 2,000 times setting my overall h-index to over 20 (source: Google Scholar). My current research is based on a user-empowering view of computational trust in human-machine interactions; and the role of computational trust in security and privacy. The areas of research that interest me include, but are not limited to computational trust systems, AI security, AI ethics and causal modelling, distributed consensus, privacy and risk, and privacy preserving data mining. I like working on complex problems that require multi-disciplinary approaches. Outside research and the related stuff, I am keen on photography, videography and the associated travels.
+</div>
 
 ### Quick links
 
-* 2-pages ***curriculum vitae / résumé*** [[PDF](/files/cv.pdf)], and
-* a ***full list of publications, grouped by year*** [[PDF](/files/publications-by-year.pdf)].
+* 2-pages ***curriculum vitae / résumé*** [[PDF](/files/cv.pdf)], 
+* a ***full list of publications, grouped by year*** [[PDF](/files/publications-by-year.pdf)], and
+* a ***full list of publications, grouped by type*** [[PDF](/files/publications-by-type.pdf)].
