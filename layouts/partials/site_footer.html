@@ -38,7 +38,7 @@ See: (1) https://github.com/gohugoio/hugo/issues/8494
   {{/* Display copyright license. */}}
   {{ partial "site_footer_license" . }}
 
-  <!--<p class="powered-by">
+  <p class="powered-by">
     {{ $is_sponsor := site.Params.i_am_a_sponsor | default false }}
     {{ $hide_published_with_footer := site.Params.power_ups.hide_published_with | default true }}
     {{ if not (and $is_sponsor $hide_published_with_footer) }}
@@ -53,5 +53,5 @@ See: (1) https://github.com/gohugoio/hugo/issues/8494
       {{ $i18n_published_with = replace $i18n_published_with "{/repo_link}" "</a>" | safeHTML }}
       {{ $i18n_published_with | markdownify | emojify }}
     {{ end }}
-  </p>-->
+  </p>
 </footer>
