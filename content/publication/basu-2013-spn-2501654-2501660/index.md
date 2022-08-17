@@ -12,10 +12,10 @@ authors:
 - Ian Wakeman
 - Vijay K Gurbani
 tags:
-- P2P
+- P2p
 - Peer-to-peer
-- simulator evaluation
-- simulator usage
+- Simulator evaluation
+- Simulator usage
 categories: []
 date: '2013-08-01'
 lastmod: 2022-03-14T10:29:04+09:00
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-14T01:29:04.144137Z'
+publishDate: '2022-08-17T12:48:00.328528Z'
 publication_types:
 - '2'
 abstract: ''

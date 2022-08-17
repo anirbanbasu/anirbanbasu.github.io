@@ -29,9 +29,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-14T01:29:07.025343Z'
+publishDate: '2022-08-17T12:48:02.599893Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Poster in the International Workshop on Self-Organizing Systems*'
+links:
+- name: URL
+  url: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.66.4974&rep=rep1&type=pdf
 ---

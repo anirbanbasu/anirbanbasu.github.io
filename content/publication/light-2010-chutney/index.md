@@ -32,9 +32,19 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-14T01:29:06.237250Z'
+publishDate: '2022-08-17T12:48:02.008188Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: We report on designing augmented reality (AR) applications to support the
+  practices of going shopping, using an accompanied shopping and reflection technique
+  to assess the key points of engagement among shoppers and producers at a farmers'
+  market. Our goal was to deploy innovative mobile technology in a low-tech context
+  so that it supported everyday behaviour. The paper documents how a short research
+  intervention was decisive in shaping the applications designed for the AR tool and
+  explores how stories told as part of the market and in interview were used to help
+  organise our insights.
 publication: '*Proceedings of OzCHI, QUT*'
+links:
+- name: URL
+  url: https://dl.acm.org/doi/abs/10.1145/1952222.1952268
 ---

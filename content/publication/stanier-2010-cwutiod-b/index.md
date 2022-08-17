@@ -31,10 +31,21 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-14T01:29:06.339389Z'
+publishDate: '2022-08-17T12:48:02.092692Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'Trust models have been used widely in the literature in a number of different
+  contexts. We examine an emotive scenario where trust would be extremely useful:
+  online dating. We explore the use of a semiring-based trust model with online dating
+  in a social network. Introductions are facilitated by friend-of-a-friend connections
+  in the network in a manner similar to some real world scenarios. We show how ethical
+  and human factors, which are usually not considered, cause problems. We hope that
+  as a result the trust community can work together to formulate new approaches to
+  trust for emotive applications that accommodate ethical and human factors which
+  are difficult to quantify.'
 publication: '*Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable
   Applications*'
+links:
+- name: URL
+  url: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.668.2148&rep=rep1&type=pdf
 ---

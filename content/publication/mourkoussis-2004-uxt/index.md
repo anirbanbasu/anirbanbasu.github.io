@@ -31,9 +31,19 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-14T01:29:07.920648Z'
+publishDate: '2022-08-17T12:48:03.363050Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: This paper presents a low cost architecture that extensively uses XML technologies
+  to present generic digital content using the web and augmented reality. We describe
+  our client-server architecture with particular emphasis on unique XML schemas that
+  are used to design a generic XML repository and illustrate its use with two different
+  application scenarios. Our solution allows management through XML and publication
+  to a visualisation client supporting both virtual and augmented reality integrated
+  with standard web browsing. Two application scenarios have been developed to illustrate
+  the effectiveness of the system.
 publication: '*Proceedings of the Eurographics Ireland Chapter Workshop*'
+links:
+- name: URL
+  url: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.66.3087&rep=rep1&type=pdf
 ---

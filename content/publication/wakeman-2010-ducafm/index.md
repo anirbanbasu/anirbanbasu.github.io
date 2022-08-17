@@ -31,10 +31,21 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-14T01:29:06.136462Z'
+publishDate: '2022-08-17T12:48:01.922145Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: Farmers' markets are the source of a rich and pleasurable consumption experience.
+  In this paper, we explored how we could support and augment these experiences through
+  the deployment of a pervasive computing application. We describe the ethnographic
+  approach we used to delineate the areas of enjoyment and pleasure, how narratives
+  are weaved around and through the stalls and their products, and how trust is formed
+  and maintained between the stallholders and the customers. We show how this understanding
+  can be applied in the design of supporting applications. We then evaluate the applications
+  using the same ethnographic approach, uncovering problems which would not have been
+  visible with other evaluation techniques.
 publication: '*Proceedings of Pervasive Advertising and Shopping 2010i (workshop at
   Pervasive 2010)*'
+links:
+- name: URL
+  url: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.450.6295&rep=rep1&type=pdf
 ---

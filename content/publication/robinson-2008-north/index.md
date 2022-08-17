@@ -30,10 +30,22 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-14T01:29:06.927708Z'
+publishDate: '2022-08-17T12:48:02.516858Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: Facilitating navigation through commercial spaces by third party systems
+  is a likely step in pervasive computing. For these applications to fully engage
+  people they must build trust relationships in a natural manner. We hypothesize that
+  the use of an explicit trust model in the design of the application would improve
+  the rate at which trust is generated. To investigate this hypothesis, we have taken
+  as a case study the design of a shopping guide for a local trading association.We
+  have created an explicit trust model and incorporated this into our design.We have
+  evaluated both our model and our application. The results of this confirmed our
+  hypothesis and provided additional insight into how to model trust in the design
+  of applications.
 publication: '*Proceedings of Joint iTrust and PST Conference on Privacy, Trust Management
   and Security (IFIPTM)*'
+links:
+- name: URL
+  url: https://link.springer.com/chapter/10.1007/978-0-387-09428-1_12
 ---

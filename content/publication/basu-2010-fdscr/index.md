@@ -29,10 +29,18 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-14T01:29:06.533475Z'
+publishDate: '2022-08-17T12:48:02.258232Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: Due to the open nature of the Internet, the abuse of the provided services
+  has become widespread. Recent research has been conducted on behavioural profiling
+  and reputations, mostly at the network level, to aid detection of malicious clients.
+  We build on this research and propose a novel generalised framework for developing
+  and globally sharing client reputations formed from behavioural histories. Promising
+  initial simulations show a high level of success of our framework.
 publication: '*Proceedings of the IFIP WG 11.11 International Conference on Trust
   Management (IFIPTM)*'
+links:
+- name: URL
+  url: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.353.7361&rep=rep1&type=pdf
 ---

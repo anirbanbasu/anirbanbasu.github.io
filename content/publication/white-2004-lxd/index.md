@@ -34,9 +34,16 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-14T01:29:07.818303Z'
+publishDate: '2022-08-17T12:48:03.276390Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: This paper describes our lightweight prototype XML based client-server architecture
+  for creating, managing and presenting virtual cultural exhibitions. ARCOLite provides
+  a low cost solution for museums to assemble multimedia content into an XML archive
+  for dynamic presentation locally or over the Internet extended with virtual and
+  augmented reality visualization.
 publication: '*Proceedings of IADIS International Conference of Applied Computing*'
+links:
+- name: URL
+  url: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.60.7693&rep=rep1&type=pdf
 ---

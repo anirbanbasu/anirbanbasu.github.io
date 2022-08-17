@@ -30,9 +30,22 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-14T01:29:07.323987Z'
+publishDate: '2022-08-17T12:48:02.857242Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: As scientists, our research must be tested and evaluated in order for it
+  to be shown to be valid. Part of this process includes providing reproducible results
+  so that peers are able to confirm any findings. The techniques used to achieve this
+  include analytical solutions, simulators and experiments with the actual system,
+  however in the area of Peer-to-Peer (P2P) computing, this gives rise to a number
+  of challenges. In this paper, we focus on P2P simulators by surveying a number of
+  P2P simulators with respect to important criteria when simulating a P2P system.
+  Simulators are compared, usage experiences are given and limitations are discussed.
+  The survey shows that while there are a plethora of simulators, there are many issues
+  such as poor scalability, little or no documentation, steep learning curves, and
+  system limitations that makes using these simulators a convoluted process.
 publication: '*Proceedings of the Annual Postgraduate Symposium (PGNet)*'
+links:
+- name: URL
+  url: ?doi=10.1.1.136.7073&rep=rep1&type=pdf
 ---

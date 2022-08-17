@@ -32,9 +32,22 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-14T01:29:06.037685Z'
+publishDate: '2022-08-17T12:48:01.837612Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: In the Näive Bayes classification problem using a vertically partitioned
+  dataset, the conventional scheme to preserve privacy of each partition uses a secure
+  scalar product and is based on the assumption that the data is synchronised amongst
+  common unique identities. In this paper, we attempt to discard this assumption in
+  order to develop a more efficient and secure scheme to perform classification with
+  minimal disclosure of private data. Our proposed scheme is based on the work by
+  Vaidya and Clifton [1], which uses commutative encryption to perform secure set
+  intersection so that the parties with access to the individual partitions have no
+  knowledge of the intersection. The evaluations presented in this paper are based
+  on experimental results, which show that our proposed protocol scales well with
+  large sparse datasets.
 publication: '*Proceedings of the International Information Security Conference (IFIPSEC)*'
+links:
+- name: URL
+  url: https://link.springer.com/chapter/10.1007/978-3-642-21424-0_18
 ---
