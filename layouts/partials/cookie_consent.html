@@ -29,7 +29,7 @@
         (2) https://github.com/wowchemy/wowchemy-hugo-themes/issues/2282
         (3) https://gohugo.io/functions/getpage
         */
-        "href": {{ with .GetPage "privacy.md" }}{{ printf "%s" .RelPermalink }}{{ else }}"https://www.cookiesandyou.com"{{ end }}
+        "href": {{ with .GetPage "/privacy.md" }}{{ printf "%s" .RelPermalink }}{{ else }}"https://www.cookiesandyou.com"{{ end }}
       }
     })});
   </script>
