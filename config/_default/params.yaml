@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: xtremebytes
-  theme_night: xtremebytes
+  theme_day: nord
+  theme_night: nord
   font: xtremebytes
   font_size: M
 
