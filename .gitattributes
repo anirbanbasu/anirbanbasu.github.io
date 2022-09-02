@@ -1,4 +1,12 @@
 # Attempting to correct Github automatic language detection results
+
+/content/**/* linguist-detectable
+/static/**/* linguist-detectable
+/config/**/* linguist-detectable
+/data/**/* linguist-detectable
+
+*.bib linguist-language=BibTeX
+
 /exampleSite/** linguist-vendored
 /assets/jsonconfig.json linguist-vendored
 /data/page_sharer.toml linguist-vendored
@@ -12,9 +20,3 @@
 /theme.toml linguist-vendored
 /update_wowchemy.sh linguist-vendored
 /view.sh linguist-vendored
-
-/content/**/* linguist-detectable
-/static/**/* linguist-detectable
-
-*.bib linguist-language=BibTeX
-
