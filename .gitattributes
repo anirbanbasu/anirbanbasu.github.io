@@ -1,5 +1,14 @@
 # Attempting to correct Github automatic language detection results
-*.md linguist-language=Markdown
-*.toml linguist-language=TOML
-*.yaml linguist-language=YAML
-*.yml linguist-language=YAML
+/exampleSite/** linguist-vendored
+/assets/jsonconfig.json linguist-vendored
+/data/page_sharer.toml linguist-vendored
+/resources/_gen/** linguist-generated
+/scripts/init_kickstart.sh linguist-vendored
+
+/academic.Rproj linguist-vendored
+/go.mod linguist-vendored
+/go.sum linguist-vendored
+/netlify.toml linguist-vendored
+/theme.toml linguist-vendored
+/update_wowchemy.sh linguist-vendored
+/view.sh linguist-vendored
