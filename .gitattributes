@@ -5,9 +5,6 @@
 /config/**/* linguist-detectable
 /data/**/* linguist-detectable
 
-/**/*.bib linguist-language=BibTeX
-/**/*.ignored linguist-language=Ignored-Text-Files
-
 /exampleSite/** linguist-vendored
 /**/example/** linguist-generated
 /assets/jsonconfig.json linguist-vendored
