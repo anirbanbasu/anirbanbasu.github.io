@@ -5,9 +5,11 @@
 /config/**/* linguist-detectable
 /data/**/* linguist-detectable
 
+# This enforcement seems to have no effect.
 *.bib linguist-language=BibTeX
 
 /exampleSite/** linguist-vendored
+/**/example/** linguist-generated
 /assets/jsonconfig.json linguist-vendored
 /data/page_sharer.toml linguist-vendored
 /resources/_gen/** linguist-generated
