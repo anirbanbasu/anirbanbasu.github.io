@@ -1,0 +1,5 @@
+# Attempting to correct Github automatic language detection results
+*.md linguist-language=Markdown
+*.toml linguist-language=TOML
+*.yaml linguist-language=YAML
+*.yml linguist-language=YAML
