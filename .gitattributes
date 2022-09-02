@@ -12,3 +12,9 @@
 /theme.toml linguist-vendored
 /update_wowchemy.sh linguist-vendored
 /view.sh linguist-vendored
+
+/content/**/* linguist-detectable
+/static/**/* linguist-detectable
+
+*.bib linguist-language=BibTeX
+
