@@ -9,6 +9,13 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
-    reviewers:
+    assignees:
+      - "anirbanbasu"
+    target-branch: "master"
+  - package-ecosystem: "github-actions"
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly"
+    assignees:
       - "anirbanbasu"
     target-branch: "master"
