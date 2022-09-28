@@ -12,17 +12,6 @@ on:
       - 'LICENSE.md'
       - 'README.md'
       - '.github/**'
-  
-  # Runs on pull requests to the default branch
-  pull_request:
-    branches: ["master"]
-    paths-ignore:
-      - 'exampleSite/**'
-      - '.gitattributes'
-      - '.gitignore'
-      - 'LICENSE.md'
-      - 'README.md'
-      - '.github/**'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
