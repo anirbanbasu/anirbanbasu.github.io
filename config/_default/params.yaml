@@ -86,12 +86,12 @@ features:
     commento:
       url: ''
   search:
-    provider: wowchemy
+    provider: algolia
     algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
+      app_id: 'SPO76IFH6L'
+      api_key: '3bc2d8b1f254b4f6ff858c63c4a1702e'
+      index_name: 'hugo_site_anirbanbasu'
+      show_logo: true
   map:
     provider: ''
     api_key: ''

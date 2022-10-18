@@ -44,7 +44,7 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects] # Note: https://user.it.uu.se/~justin/Hugo/post/hugo_module_fail/
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
