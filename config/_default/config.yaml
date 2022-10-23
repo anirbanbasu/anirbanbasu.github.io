@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: anirban ‧ basu # Website name
-baseURL: 'https://anirbanbasu.netlify.app/' # Website URL
+baseURL: 'https://www.anirbanbasu.com/' # Website URL
 
 ############################
 ## LANGUAGE
