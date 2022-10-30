@@ -3,7 +3,7 @@ title: Anirban Basu
 role: Researcher in Computational Trust, Privacy and Security
 avatar_filename: avatar.jpg
 bio: Senior Researcher (Hitachi, Ltd., Japan), Honorary Research Fellow
-  (University of Sussex, UK)
+  (University of Sussex, UK), Adjunct Professor (OntarioTech University, Canada)
 interests:
   - Computational trust
   - Artificial Intelligence
@@ -59,6 +59,8 @@ organizations:
     url: http://www.hitachi.com/rd/
   - name: University of Sussex
     url: https://profiles.sussex.ac.uk/p134568-anirban-basu/
+  - name: OntarioTech University
+    url: https://businessandit.ontariotechu.ca/people/adjunct-professors/index.php
   - name: IFIP WG 11.11 Trust Management
     url: http://www.ifiptm.org/
 education:
@@ -80,6 +82,6 @@ With more than a decade of research experience within both academia and industry
 
 ## Quick links
 
-* 2-pages ***curriculum vitae / résumé*** [[PDF](/files/cv.pdf)], 
+* 2-pages ***curriculum vitae / résumé*** [[PDF](/files/cv.pdf)],
 * a ***full list of publications, grouped by year*** [[PDF](/files/publications-by-year.pdf)], and
 * a ***full list of publications, grouped by type*** [[PDF](/files/publications-by-type.pdf)].
