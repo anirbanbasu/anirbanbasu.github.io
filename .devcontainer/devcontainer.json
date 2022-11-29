@@ -1,0 +1,14 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers/features/common-utils:1": {
+      "installOhMyZsh": "false",
+      "username": "codespace"
+    },
+    "ghcr.io/devcontainers/features/hugo:1": {
+      "extended":"true"
+    },
+    "ghcr.io/devcontainers/features/github-cli:1": {},
+    "ghcr.io/devcontainers/features/git:1": {}
+  }
+}
