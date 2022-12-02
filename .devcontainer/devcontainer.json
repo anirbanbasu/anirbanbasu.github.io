@@ -1,6 +1,7 @@
 {
   "name": "hugo-development-container",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "forwardPorts": [1313],
   "features": {
     "ghcr.io/devcontainers/features/common-utils:1": {
       "installOhMyZsh": "false",
