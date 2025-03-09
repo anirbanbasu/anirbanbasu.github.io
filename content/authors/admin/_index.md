@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Anirban Basu
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Anirban
+last_name: Basu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,69 +20,54 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Hitachi R&D
+    url: https://www.hitachi.com/rd/
+  - name: University of Sussex
+    url: https://profiles.sussex.ac.uk/p134568-anirban-basu
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: 'mailto:0x0@anirbanbasu.com'
+    label: E-mail
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/anirban_basu
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/anirbanbasu
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/anirbanbasu
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=XHB3pcYAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-5438-0959
 
 interests:
+  - Computational trust
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Privacy and security
+  - Distributed systems
+  - Indian classical music
+  - Photography
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: Doctor of Philosophy (DPhil) in Computer Science and Artificial Intelligence
+    institution: University of Sussex
+    # date_start: 2004
+    # date_end: 2010
+    # summary: 
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: BEng in Computer Systems Engineering
+    institution: University of Sussex
+    # date_start: 2001
+    # date_end: 2004
+    # summary: 
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -183,4 +168,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<div style='text-align: justify'>
+With more than a decade of research experience within both academia and industry, I have co-authored 70+ research papers and 30+ Japanese patents. My publications have been cited more than 2,900 times setting my overall h-index to over 25 (source: Google Scholar). My current research is based on a user-empowering view of computational trust in human-machine interactions; and the role of computational trust in security and privacy. The areas of research that interest me include, but are not limited to: computational trust systems, AI security, AI ethics and causal modelling, distributed consensus, privacy and risk, and privacy preserving data mining. I like working on complex problems that require multi-disciplinary approaches. Outside research and experimental stuff (some of which, I make open-source), I am keen on photography, videography and the associated travels.
+</div>

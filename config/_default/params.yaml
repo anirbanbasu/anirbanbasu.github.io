@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: blue
 
 # SEO
 marketing:
@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'Researcher in Computational Trust, Privacy, Security and Artificial Intelligence.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -23,7 +23,8 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: 'cmx4dcUiOOa4Hs3SiCfsUtMeWZYtHx0HQMW2oWk-qqs'
+    bing: '2290D76A4A936157CBA888B4029393EF'
     baidu: ''
 
 # Site header
@@ -31,18 +32,21 @@ header:
   navbar:
     enable: true
     blox: "navbar"
+    align: "right"
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: ""
+      # PNG or SVG in the assets/media folder
+      filename: "logo-original.png"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
+    notice: '© 2001--{year} Anirban Basu. All rights reserved.'
+    license: 
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -50,11 +54,11 @@ footer:
 # Localization
 locale:
   date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  time_format: '15:04'
 
 # Site features
 features:
   math:
     enable: false
   privacy_pack:
-    enable: false
+    enable: true
