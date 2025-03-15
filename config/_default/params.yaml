@@ -5,7 +5,7 @@
 
 # Appearance
 appearance:
-  mode: system
+  mode: light
   color: blue
 
 # SEO
@@ -34,12 +34,12 @@ header:
     blox: "navbar"
     align: "right"
     fixed_to_top: true
-    show_search: true
-    show_theme_chooser: true
+    show_search: false
+    show_theme_chooser: false
     logo:
       text: ""
       # PNG or SVG in the assets/media folder
-      filename: "logo-original.png"
+      filename: logo-original.png
 
 # Site footer
 footer:
@@ -59,6 +59,6 @@ locale:
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: true
