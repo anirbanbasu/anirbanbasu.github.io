@@ -46,6 +46,9 @@ sections:
         - text: Download a reverse chronological list of publications, grouped by type (PDF)
           icon: custom/bars-staggered-solid
           url: uploads/publications-by-type.pdf
+        - text: Visit my photography and visual arts website -- perspectives
+          icon: custom/camera-solid
+          url: https://perspectives.anirbanbasu.com
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
