@@ -1,0 +1,38 @@
+# The URL the site will be built for
+base_url = "https://www.anirbanbasu.com"
+
+theme = "terminimal"
+
+title = "anirbanbasu"
+description = "Website of Dr Anirban Basu"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+# Whether dotfiles at the root level of the output directory are preserved when (re)building the site.
+# Enabling this also prevents the deletion of the output folder itself on rebuilds.
+preserve_dotfiles_in_output = false
+
+# When set to "true", the generated HTML files are minified.
+minify_html = true
+
+[markdown]
+# When set to "true", emoji aliases translated to their corresponding
+# Unicode emoji equivalent in the rendered Markdown files. (e.g.: :smile: => 😄)
+render_emoji = true
+
+# Whether smart punctuation is enabled (changing quotes, dashes, dots in their typographic form)
+# For example, `...` into `…`, `"quote"` into `“curly”` etc
+smart_punctuation = true
+
+[markdown.highlighting]
+theme = "catppuccin-mocha"
+
+[extra]
+# Put all your custom variables here
+show_only_description = true
+logo_text = "anirbanbasu"
+author = "Anirban Basu"
