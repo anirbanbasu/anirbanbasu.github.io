@@ -1,38 +1,87 @@
 # The URL the site will be built for
 base_url = "https://www.anirbanbasu.com"
 
-theme = "terminimal"
-
+# The site title and description; used in feeds by default.
 title = "anirbanbasu"
-description = "Website of Dr Anirban Basu"
+description = "Website of Anirban Basu"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
+# When set to "true", a feed is automatically generated.
+generate_feeds = true
+
+# The default author for pages
+author = "Anirban Basu"
+
+# The taxonomies to be rendered for the site and their configuration of the default languages
+# Example:
+#     taxonomies = [
+#       {name = "tags", feed = true}, # each tag will have its own feed
+#       {name = "tags"}, # you can have taxonomies with the same name in multiple languages
+#       {name = "categories", paginate_by = 5},  # 5 items per page for a term
+#       {name = "authors"}, # Basic definition: no feed or pagination
+#     ]
+#
+taxonomies = [
+    { name = "tags", feed = true },
+    { name = "categories", feed = true, paginate_by = 5 },
+]
+
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
-# Whether dotfiles at the root level of the output directory are preserved when (re)building the site.
-# Enabling this also prevents the deletion of the output folder itself on rebuilds.
-preserve_dotfiles_in_output = false
-
-# When set to "true", the generated HTML files are minified.
-minify_html = true
+theme = "terminus"
 
 [markdown]
+
 # When set to "true", emoji aliases translated to their corresponding
 # Unicode emoji equivalent in the rendered Markdown files. (e.g.: :smile: => 😄)
 render_emoji = true
 
-# Whether smart punctuation is enabled (changing quotes, dashes, dots in their typographic form)
-# For example, `...` into `…`, `"quote"` into `“curly”` etc
-smart_punctuation = true
+# Whether footnotes are rendered in the GitHub-style (at the bottom, with back references) or plain (in the place, where they are defined)
+bottom_footnotes = true
+
+# When set to "true", support for GitHub-style alerts, a.k.a. callouts or admonitions, is enabled in the Markdown parser.
+github_alerts = true
 
 [markdown.highlighting]
-theme = "catppuccin-mocha"
+# Whether to use inline hex colours ("inline") or CSS classes ("class").
+# See https://www.getzola.org/documentation/content/syntax-highlighting/ for details.
+style = "inline"
+
+# The theme to use for code highlighting.
+# See https://github.com/getzola/giallo?tab=readme-ov-file#themes for the list of allowed values.
+theme = "monokai"
 
 [extra]
-# Put all your custom variables here
-show_only_description = true
-logo_text = "anirbanbasu"
-author = "Anirban Basu"
+close_responsive_menu_on_resize = true
+favicon_emoji = "👨‍💻"
+fediverse_creator = "@ebkalderon@hachyderm.io"
+layout = "center"
+show_default_author = false
+
+main_menu = [
+    { name = "blog", url = "blog", trailing_slash = true },
+    { name = "tags", url = "tags", trailing_slash = true },
+    { name = "projects", url = "projects", trailing_slash = true },
+]
+
+socials = [
+    { name = "github", url = "https://github.com/anirbanbasu" },
+    { name= "instagram", url = "https://instagram.com/anirban_basu/" },
+    { name = "linkedin", url = "https://www.linkedin.com/in/anirbanbasu" },
+]
+
+[extra.content_security_policy]
+enable = true
+allowed_domains = [
+    { directive = "base-uri", domains = ["'self'"] },
+    { directive = "connect-src", domains = ["'self'"] },
+    { directive = "form-action", domains = ["'self'"] },
+    { directive = "script-src", domains = ["'self'"] },
+]
+
+[extra.responsive_images]
+widths = [640, 784, 1280, 1920, 2560]
+fallback_width = 1280
