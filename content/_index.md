@@ -2,29 +2,21 @@
 title = "Welcome!"
 
 [extra]
-framed = false
+framed = true
+section_path = "_index.md"
+max_posts = 0
 +++
 
-# Hello there! 👋🏼
+<img style="display:block; clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%); width: 16vw; height: auto; margin-left: auto; margin-right: auto;" src="/images/profile-square-no-reflection.jpg" alt="Profile picture" class="profile-picture" />
 
-<div style='text-align: justify'>
-<p>
-With more than a decade of research experience within both academia and industry, I have co-authored 80+ research papers and 30+ Japanese patents. My publications have been cited more than 3,000 times setting my overall h-index to over 25 (source: <a href="https://scholar.google.com/citations?user=XHB3pcYAAAAJ&hl=en" target="_blank">Google Scholar</a>). My current research is based on a user-empowering view of computational trust in human-machine interactions; and the role of computational trust in security and privacy. The areas of research that interest me include, but are not limited to: computational trust systems, AI security, AI ethics and causal modelling, distributed consensus, privacy and risk, and privacy preserving data mining. I like working on complex problems that require multi-disciplinary approaches. Outside research and experimental stuff (some of which, I make open-source), I am keen on photography, videography and the associated travels.
-</p>
-</div>
+# Tervetuloa!
 
-{% alert(type="info", title="Education") %}
- - Doctor of Philosophy (DPhil) in Computer Science and Artificial Intelligence (_University of Sussex, UK_, 2010)
- - Bachelor of Engineering (BEng) in Computer Systems Engineering (_University of Sussex, UK_, 2004)
-{% end %}
+A bit of this and that about me, my research, and my interests. 
 
-{% alert(type="warning", title="Interests", icon="tip") %}
- - Computational trust
- - Artificial Intelligence
- - Privacy and security
- - Distributed systems
+## Interests
+ - Research
+ - Coding
  - Indian classical music
  - Photography
 
 _and generally curious about many things..._
-{% end %}

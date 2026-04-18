@@ -73,6 +73,7 @@ copyright = "© $YEAR $AUTHOR :: Powered by [Zola](https://www.getzola.org) :: B
 
 main_menu = [
     { name = "blog", url = "blog", trailing_slash = true },
+    { name = "research", url = "research", trailing_slash = false },
     { name = "tags", url = "tags", trailing_slash = true },
     { name = "projects", url = "projects", trailing_slash = true },
     { name = "photography", url = "https://perspectives.anirbanbasu.com", new_tab = true },
@@ -84,16 +85,16 @@ socials = [
     { name = "linkedin", url = "https://www.linkedin.com/in/anirbanbasu" },
 ]
 
-header_logo = "/images/logo/x-logo1024p.png"
+header_logo = "images/logo/logo.svg"
 header_logo_width = "16vw"
 
 [extra.content_security_policy]
 enable = true
 allowed_domains = [
-    { directive = "base-uri", domains = ["'self'"] },
-    { directive = "connect-src", domains = ["'self'"] },
-    { directive = "form-action", domains = ["'self'"] },
-    { directive = "script-src", domains = ["'self'"] },
+    { directive = "base-uri", domains = ["'self'", "anirbanbasu.com", "anirbanbasu.netlify.app", "anirbanbasu.github.io"] },
+    { directive = "connect-src", domains = ["'self'", "anirbanbasu.com", "anirbanbasu.netlify.app", "anirbanbasu.github.io"] },
+    { directive = "form-action", domains = ["'self'", "anirbanbasu.com", "anirbanbasu.netlify.app", "anirbanbasu.github.io"] },
+    { directive = "script-src", domains = ["'self'", "anirbanbasu.com", "anirbanbasu.netlify.app", "anirbanbasu.github.io"] },
 ]
 
 [extra.responsive_images]
