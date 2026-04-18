@@ -20,7 +20,7 @@ In April 2026, I found out about [Zola](https://www.getzola.org/), a static site
 
 ## Zola and the `terminus` theme
 
-Given how frustrating my experience with Hugo had turned out to be, I decided to give Zola a try. However, Zola's theme ecosystem is not as mature as Hugo's yet and I could not find a theme that quite replicates the look and feel of the academic profile theme of Hugo. Hence, I ventured into a different direction -- using the [`terminus`](https://github.com/ebkalderon/terminus) theme for a minimalistic and clean look. I have somewhat [customized the theme](https://github.com/anirbanbasu/terminus) to suit my needs.
+Given how frustrating my experience with Hugo had turned out to be, I decided to give Zola a try. However, Zola's theme ecosystem is not as mature as Hugo's yet and I could not find a theme that quite replicates the look and feel of the academic profile theme of Hugo. Hence, I ventured into a different direction -- using the [`terminus`](https://github.com/ebkalderon/terminus) theme for a minimalistic and clean look. I have somewhat [customized the theme](https://github.com/ebkalderon/terminus/pull/17) to suit my needs.
 
 ## The future
 
