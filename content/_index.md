@@ -2,7 +2,7 @@
 title = "Welcome!"
 
 [extra]
-framed = true
+framed = false
 section_path = "_index.md"
 max_posts = 0
 +++

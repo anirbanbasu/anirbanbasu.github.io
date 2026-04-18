@@ -1,6 +1,10 @@
 +++
 title = "Research"
 date = 2026-06-17
+
+[taxonomies]
+tags = ["research", "computational-trust", "artificial-intelligence", "privacy", "security"]
+categories = ["research"]
 +++
 
 <div style='text-align: justify'>
@@ -20,7 +24,7 @@ _Also, interested in a variety of other topics, which may be sometimes seen as d
 
 {% alert(type="info", title="Current research affiliations") %}
  - _Senior Researcher_ at Hitachi R&D, Japan (2018-present)
- - _Honorary Research Fellow_ at the University of Sussex, UK (2010-present)
+ - [_Honorary Research Fellow_](https://profiles.sussex.ac.uk/p134568-anirban-basu) at the University of Sussex, UK (2010-present)
 {% end %}
 
 {% alert(type="note", title="Education") %}
@@ -31,5 +35,5 @@ _Also, interested in a variety of other topics, which may be sometimes seen as d
 
 ## Publications
 
- - [Reverse-chronological by **year**](/files/publications-by-year.pdf)
- - [Reverse-chronological by **type**](/files/publications-by-type.pdf)
+ - [Reverse-chronological list (**by year**)](/files/publications-by-year.pdf)
+ - [Reverse-chronological list (**by type**)](/files/publications-by-type.pdf)
