@@ -15,14 +15,23 @@ _Et cetera (abbreviated as etc.) is a Latin phrase meaning “and the rest” or
 <p>
 My name Anirban is a Bengali name ("অনির্বাণ", if you have Bengali fonts to see that), which means a light that shines forever. In Bengali, it sounds a bit like: aw-nee-r-baan. However, as Bengali is not a language with strict intonations, many variations of the pronunciation by non-Bengali speakers still make sense (somewhat!). In Japanese (Katakana), it is written as バス　オニバン (note that the family name is written first) and pronounced (in Romanization) ba-su o-ni-ba-n.
 
-If you would like to see how my name is written but do not have the Bengali or Japanese fonts to read the names in the paragraph above, click on the links below to see them as images.
-
-<ul>
-  <li>Full name in Bengali, left-to-right reading order: <a href="/images/bengali-name.png" target="_blank">click here</a>.</li>
-  <li>Full name in Japanese, with the family name first in the left-to-right reading order: <a href="/images/katakana-name.png" target="_blank">click here</a>.</li>
-</ul>
+If you would like to see how my name is written but do not have the Bengali or Japanese fonts to read the names in the paragraph above, expand the details below to see them as images.
 </p>
 </div>
+
+<details>
+<summary>Full name in Bengali, in the left-to-right reading order</summary>
+
+<img src="/images/bengali-name.svg" alt="Anirban Basu in Bengali" style="background-color: var(--accent-color); color: var(--text-color); margin-left: auto; margin-right: auto; display: block; border-radius: 8px; object-fit: cover;" />
+
+</details>
+
+<details>
+<summary>Full name in Japanese (Katakana), with the family name first, in the left-to-right reading order</summary>
+
+<img src="/images/katakana-name.svg" alt="Anirban Basu in Japanese (Katakana)" style="background-color: var(--accent-color); color: var(--text-color); margin-left: auto; margin-right: auto; display: block; border-radius: 8px; object-fit: cover;" />
+
+</details>
 
 
 ## Profile photos
