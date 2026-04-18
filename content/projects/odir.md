@@ -1,6 +1,6 @@
 +++
 title = "Ollama Downloader in Rust (ODIR)"
-description = "Ollama Downloader in Rust (ODIR) is a command-line tool written in Rust for downloading models from Ollama"
+description = "Ollama Downloader in Rust (ODIR) is a command-line tool written in Rust for downloading models from Ollama."
 date = 2026-04-18
 
 [taxonomies]
