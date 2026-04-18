@@ -27,5 +27,5 @@ If you would like to see how my name is written but do not have the Bengali or J
 
 ## Profile photos
 
- - 1inch x 1.25inch @600dpi profile photo [JPEG](/images/abasu-journal-600dpi.jpg)
- - 1inch x 1inch (aspect ratio: square) @600dpi profile photo [JPEG](/images/profile-square-no-reflection.jpg)
+ - 1inch x 1.25inch @600dpi profile photo: [JPEG](/images/abasu-journal-600dpi.jpg).
+ - 1inch x 1inch (aspect ratio: square) @600dpi profile photo: [JPEG](/images/profile-square-no-reflection.jpg).

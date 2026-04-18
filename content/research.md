@@ -35,5 +35,6 @@ _Also, interested in a variety of other topics, which may be sometimes seen as d
 
 ## Publications
 
- - [Reverse-chronological list (**by year**)](/files/publications-by-year.pdf)
- - [Reverse-chronological list (**by type**)](/files/publications-by-type.pdf)
+Click on the buttons below to see the publications list in reverse-chronological order by year or by type.
+
+ <a href="/files/publications-by-year.pdf" target="_blank"><button>Publications list by year</button></a> <a href="/files/publications-by-type.pdf" target="_blank"><button>Publications list by type</button></a>

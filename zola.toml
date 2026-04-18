@@ -56,7 +56,7 @@ theme = "monokai"
 
 [extra]
 close_responsive_menu_on_resize = true
-color_scheme = "nord"
+color_scheme = "one-dark"
 color_scheme_switcher = false
 favicon = "images/favicon.png"
 # favicon_emoji = "👨‍💻"
@@ -75,7 +75,7 @@ main_menu = [
     { name = "research", url = "research", trailing_slash = false },
     { name = "open-source projects", url = "projects", trailing_slash = true },
     { name = "musings", url = "musings", trailing_slash = true },
-    { name = "photography ↗", url = "https://perspectives.anirbanbasu.com", new_tab = true },
+    { name = "photography [↗]", url = "https://perspectives.anirbanbasu.com", new_tab = true },
     { name = "et cetera", url = "et-cetera", trailing_slash = false },
 ]
 
