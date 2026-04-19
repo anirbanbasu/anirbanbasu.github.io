@@ -2,7 +2,7 @@
 title = "Ollama Downloader in Rust (ODIR)"
 description = "Ollama Downloader in Rust (ODIR) is a command-line tool written in Rust for downloading models from Ollama."
 date = 2026-04-18
-updated = 2026-04-19
+updated = 2026-04-20
 
 [taxonomies]
 tags = ["software", "rust", "ollama", "local-ai", "artificial-intelligence", "downloader", "tool", "command-line-tool"]
@@ -15,13 +15,16 @@ categories = ["open-source"]
 
 {% alert(type="info", title="TLDR; want to install ODIR right away!") %}
  If you have the [Rust toolchain installed](https://rust-lang.org/tools/install/), run the following command in your terminal to install ODIR.
+
    ```bash
    cargo install odir
    ```
+
  Alternatively, if you have [Homebrew](https://brew.sh/) installed, you can run the following command to install ODIR.
-   ```bash
-   brew install anirbanbasu/tap/odir
-   ```
+
+  ```bash
+  brew install anirbanbasu/tap/odir
+  ```
 
 <details>
 <summary>Important notes</summary>
@@ -46,7 +49,6 @@ My solution in August 2025 was to write a command-line tool in Python that downl
 
 You can find the following links related to the ODIR project.
 
- - <a href="https://github.com/anirbanbasu/odir" target="_blank">GitHub repository</a> for the Ollama Downloader in Rust (ODIR) project.
- - <a href="https://crates.io/crates/odir" target="_blank">Rust crate on Crates.io</a> for ODIR.
- - <a href="https://github.com/anirbanbasu/ollama-downloader" target="_blank">GitHub repository</a> of the original Python Ollama Downloader project, _now deprecated_.
-
+- <a href="https://github.com/anirbanbasu/odir" target="_blank">GitHub repository</a> for the Ollama Downloader in Rust (ODIR) project.
+- <a href="https://crates.io/crates/odir" target="_blank">Rust crate on Crates.io</a> for ODIR.
+- <a href="https://github.com/anirbanbasu/ollama-downloader" target="_blank">GitHub repository</a> of the original Python Ollama Downloader project, _now deprecated_.
