@@ -10,6 +10,12 @@ pre-commit-update:
     @prek auto-update
     @echo "Pre-commit hooks updated."
 
+# Serve the website locally using Zola
+serve:
+    @echo "Serving the website locally using Zola..."
+    @zola serve
+    @echo "Website is being served at http://127.0.0.1:1111"
+
 # Run the Open Source Vulnerability scanner
 vulnerability-scan:
     @echo "Running Open Source Vulnerability scanner..."

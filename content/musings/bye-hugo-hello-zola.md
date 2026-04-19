@@ -34,11 +34,12 @@ The transition is still on-going and there are many TODOs before the website is 
 {% alert(type="warning", title="Urgent TODOs") %}
 
 - [ ] Update the main landing page for the website.
-- [ ] Improve git setup.
+- [x] Improve git setup.
   - [x] Add a `.pre-commit` configuration.
-  - [ ] Add relevant badges to the README.
-  - [x] ~_Maybe_ a~Add a `justfile`~ or a `Makefile`~ for common tasks.
-  - [ ] ~Add a LICENSE, perhaps dual license for the creative part and the code, especially the imported theme(s)~. License attributions for the theme(s) and icon(s) are needed.
+  - [x] Add relevant badges to the README.
+  - [x] Add instructions for setting up the development environment in the README.
+  - [x] ~_Maybe_ a~ Add a `justfile` ~or a `Makefile`~ for common tasks.
+  - [x] ~Add a LICENSE, perhaps dual license for the creative part and the code, especially the imported theme(s)~. License attributions for the theme(s) and icon(s) are needed.
 - [ ] Improve security hardening for the GitHub actions.
   - [x] Add `step-security` `harden-runner` to all workflows.
   - [x] Make sure that all dependencies are pinned.
