@@ -1,5 +1,4 @@
-.hugo_build.lock
-go.sum
-hugo_stats.json
+.DS_Store
 resources/
 public/
+static/processed_images/
