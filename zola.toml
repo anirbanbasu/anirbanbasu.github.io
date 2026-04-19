@@ -83,6 +83,8 @@ socials = [
     { name = "github", url = "https://github.com/anirbanbasu" },
     { name= "instagram", url = "https://instagram.com/anirban_basu/" },
     { name = "linkedin", url = "https://www.linkedin.com/in/anirbanbasu" },
+    { name = "orcid", url = "https://orcid.org/0000-0001-5438-0959"},
+    { name = "google-scholar", url = "https://scholar.google.com/citations?user=XHB3pcYAAAAJ&hl=en"},
 ]
 
 header_logo = "images/logo/logo.svg"

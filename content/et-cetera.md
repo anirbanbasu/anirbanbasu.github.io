@@ -1,6 +1,6 @@
 +++
 title = "Et cetera"
-date = 2026-06-18
+date = 2026-04-18
 
 [taxonomies]
 tags = ["name", "profile-picture"]
