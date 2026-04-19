@@ -74,7 +74,7 @@ copyright = "© $YEAR $AUTHOR :: Powered by [Zola](https://www.getzola.org) :: B
 main_menu = [
     { name = "musings", url = "musings", trailing_slash = true },
     { name = "research", url = "research", trailing_slash = false },
-    { name = "open-source projects", url = "projects", trailing_slash = true },
+    { name = "projects", url = "projects", trailing_slash = true },
     { name = "photography [↗]", url = "https://perspectives.anirbanbasu.com", new_tab = true },
     { name = "et cetera", url = "et-cetera", trailing_slash = false },
 ]

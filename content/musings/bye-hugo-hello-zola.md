@@ -32,7 +32,7 @@ Given how frustrating my experience with Hugo had turned out to be, I decided to
 The transition is still on-going and there are many TODOs before the website is fully ready.
 
 {% alert(type="warning", title="Urgent TODOs") %}
- - [ ] Update the main landing page for the website: the current layout does not look good and the content is incomplete.
+ - [ ] Update the main landing page for the website.
  - [ ] Improve git setup.
       - [ ] Add a `.pre-commit` configuration.
       - [ ] Add relevant badges to the README.
@@ -43,7 +43,7 @@ The transition is still on-going and there are many TODOs before the website is 
     - [x] Make sure that all dependencies are pinned. 
     - [ ] Add `dependabot` for GitHub actions and Zola dependencies.
  - [ ] _Should there be a CHANGELOG_, either as a CHANGELOG.md file or as a section in the website?
- - [ ] Remove all TODOs and old content.
+ - [x] Remove all TODOs and old content.
 {% end %}
 
 {% alert(type="info", title="On-going improvements") %}
@@ -51,8 +51,8 @@ The transition is still on-going and there are many TODOs before the website is 
  - [ ] _Maybe_ in the `et-cetera` section, attempt to use responsive images to display the profile photos but also have links to make the originals downloadable.
     - [x] Make Bengali and Japanese writings of my name as SVG.
  - [ ] _Maybe_ add a section for the research work, with links to the papers and patents.
- - [ ] Add more content to the `musings` section. _This is an on-going task, which does not need to be completed before merging_.
- - [x] Add more content to highlight other open-source projects.
+ - [ ] Add more content to the `musings` section.
+ - [x] Add more content to highlight open-source projects.
 {% end %}
 
 ## The future
