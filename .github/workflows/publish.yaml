@@ -23,6 +23,8 @@ jobs:
           egress-policy: audit
       - name: checkout
         uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          submodules: recursive
 
       - name: Build Zola + upload Pages artifact
         uses: getzola/github-pages@066755243e69f508fd1a74739fbf1a65f656c790
