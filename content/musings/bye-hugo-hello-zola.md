@@ -40,12 +40,12 @@ The transition is still on-going and there are many TODOs before the website is 
   - [x] Add instructions for setting up the development environment in the README.
   - [x] ~_Maybe_ a~ Add a `justfile` ~or a `Makefile`~ for common tasks.
   - [x] ~Add a LICENSE, perhaps dual license for the creative part and the code, especially the imported theme(s)~. License attributions for the theme(s) and icon(s) are needed.
-- [ ] Improve security hardening for the GitHub actions.
+- [x] Improve security hardening for the GitHub actions.
   - [x] Add `step-security` `harden-runner` to all workflows.
   - [x] Make sure that all dependencies are pinned.
   - [x] Add `dependabot` for GitHub actions and Zola ~dependencies~ theme submodules.
-- [ ] _Should there be a CHANGELOG_, either as a CHANGELOG.md file or as a section in the website?
-- [x] Remove all TODOs and old content.
+- [x] ~_Should there be a CHANGELOG_, either as a CHANGELOG.md file or as a section in the website?~ Adopt semantic versioning based releases and tags for the website. Since the website is not a software project, a CHANGELOG may not be necessary.
+- [ ] Remove all TODOs, old content and this **On-going transition** section.
 
 {% end %}
 
