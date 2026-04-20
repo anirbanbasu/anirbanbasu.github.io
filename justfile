@@ -16,6 +16,11 @@ serve:
     @zola serve
     @echo "Website is being served at http://127.0.0.1:1111"
 
+update-theme-submodules:
+    @echo "Updating theme submodules..."
+    @git submodule update --init --recursive
+    @echo "Theme submodules updated."
+
 # Run the Open Source Vulnerability scanner
 vulnerability-scan:
     @echo "Running Open Source Vulnerability scanner..."
