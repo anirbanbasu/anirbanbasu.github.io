@@ -2,8 +2,8 @@
 base_url = "https://anirbanbasu.netlify.app"
 
 # The site title and description; used in feeds by default.
-title = "anirbanbasu"
-description = "Website of Anirban Basu"
+title = "anirban · basu"
+description = "Researcher in Computational Trust, Privacy, Security and Artificial Intelligence"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -28,10 +28,39 @@ taxonomies = [
     { name = "categories", feed = true, paginate_by = 5 },
 ]
 
+default_language = "en"
+
 # Whether to build a search index to be used later on by a JavaScript library
-build_search_index = true
+build_search_index = false
+
+# When set to "false", Sitemap.xml is not generated
+generate_sitemap = true
+
+# When set to "false", robots.txt is not generated
+generate_robots_txt = true
 
 theme = "terminus"
+
+[search]
+# Whether to include the title of the page/section in the index
+# include_title = true
+# Whether to include the description of the page/section in the index
+# include_description = false
+# Whether to include the RFC3339 datetime of the page in the search index
+# include_date = false
+# Whether to include the path of the page/section in the index (the permalink is always included)
+# include_path = false
+# Whether to include the rendered content of the page/section in the index
+# include_content = true
+# At which code point to truncate the content to. Useful if you have a lot of pages and the index would
+# become too big to load on the site. Defaults to not being set.
+# truncate_content_length = 100
+
+# Whether to produce the search index as a javascript file or as a JSON file
+# Accepted values:
+# - "elasticlunr_javascript", "elasticlunr_json"
+# - "fuse_javascript", "fuse_json"
+# index_format = "elasticlunr_javascript"
 
 [markdown]
 
@@ -60,7 +89,6 @@ color_scheme = "one-dark"
 color_scheme_switcher = false
 favicon = "images/favicon.png"
 # favicon_emoji = "👨‍💻"
-# fediverse_creator = "@ebkalderon@hachyderm.io"
 layout = "center"
 show_default_author = false
 
