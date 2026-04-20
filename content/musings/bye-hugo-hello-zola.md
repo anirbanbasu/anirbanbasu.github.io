@@ -27,39 +27,6 @@ In April 2026, I found out about [Zola](https://www.getzola.org/), a static site
 
 Given how frustrating my experience with Hugo had turned out to be, I decided to give Zola a try. However, Zola's theme ecosystem is not as mature as Hugo's yet and I could not find a theme that quite replicates the look and feel of the academic profile theme of Hugo. Hence, I ventured into a different direction -- using the [`terminus`](https://github.com/ebkalderon/terminus) theme for a minimalistic and clean look. I have somewhat [customised the theme](https://github.com/ebkalderon/terminus/pull/17) to suit my needs.
 
-## On-going transition
-
-The transition is still on-going and there are many TODOs before the website is fully ready.
-
-{% alert(type="warning", title="Urgent TODOs") %}
-
-- [ ] Update the main landing page for the website.
-- [x] Improve git setup.
-  - [x] Add a `.pre-commit` configuration.
-  - [x] Add relevant badges to the README.
-  - [x] Add instructions for setting up the development environment in the README.
-  - [x] ~_Maybe_ a~ Add a `justfile` ~or a `Makefile`~ for common tasks.
-  - [x] ~Add a LICENSE, perhaps dual license for the creative part and the code, especially the imported theme(s)~. License attributions for the theme(s) and icon(s) are needed.
-- [x] Improve security hardening for the GitHub actions.
-  - [x] Add `step-security` `harden-runner` to all workflows.
-  - [x] Make sure that all dependencies are pinned.
-  - [x] Add `dependabot` for GitHub actions and Zola ~dependencies~ theme submodules.
-- [x] ~_Should there be a CHANGELOG_, either as a CHANGELOG.md file or as a section in the website?~ Adopt semantic versioning based releases and tags for the website. Since the website is not a software project, a CHANGELOG may not be necessary.
-- [ ] Remove all TODOs, old content and this **On-going transition** section.
-
-{% end %}
-
-{% alert(type="info", title="On-going improvements") %}
-
-- [ ] Create a landing page for photography, with a short description leading to external links for the photography work.
-- [ ] _Maybe_ in the `et-cetera` section, attempt to use responsive images to display the profile photos but also have links to make the originals downloadable.
-  - [x] Make Bengali and Japanese writings of my name as SVG.
-- [ ] _Maybe_ add a section for the research work, with links to the papers and patents.
-- [ ] Add more content to the `musings` section.
-- [x] Add more content to highlight open-source projects.
-
-{% end %}
-
 ## The future
 
 So far, so good but it is too early to tell how Zola or compatible themes evolve over time. Let's see how it unfolds.
