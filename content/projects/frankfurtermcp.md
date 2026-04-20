@@ -2,6 +2,7 @@
 title = "Frankfurter MCP"
 description = "Frankfurter MCP exposes tools for fiat currency rates and conversions over the Model Context Protocol."
 date = 2026-04-18
+updated = 2026-04-20
 
 [taxonomies]
 tags = ["software", "python", "model-context-protocol", "artificial-intelligence", "mcp", "currency-conversion", "exchange-rates"]
@@ -14,7 +15,6 @@ Around mid-2025, I made the Frankfurter MCP project in Python utilising [FastMCP
 
 You can find the following links related to the Frankfurter MCP project.
 
- - <a href="https://github.com/anirbanbasu/frankfurtermcp" target="_blank">GitHub repository</a> for the Frankfurter MCP project.
- - <a href="https://pypi.org/project/frankfurtermcp/" target="_blank">PyPI package</a> for the Frankfurter MCP project.
- - <a href="https://frankfurtermcp.fastmcp.app/mcp" target="_blank">Cloud-based</a> Frankfurter MCP, hosted by the FastMCP cloud.
-
+- <a href="https://github.com/anirbanbasu/frankfurtermcp" target="_blank">GitHub repository</a> for the Frankfurter MCP project.
+- <a href="https://pypi.org/project/frankfurtermcp/" target="_blank">PyPI package</a> for the Frankfurter MCP project.
+- <a href="https://frankfurtermcp.fastmcp.app/mcp" target="_blank">Cloud-based</a> Frankfurter MCP, hosted by the FastMCP cloud.

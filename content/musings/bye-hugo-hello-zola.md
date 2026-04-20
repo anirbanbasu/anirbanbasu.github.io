@@ -2,7 +2,7 @@
 title = "Goodbye, HugoBlox (and Hugo)! Hello, Zola!"
 description = "Finally, something better than HugoBlox!"
 date = 2026-04-18
-updated = 2026-04-19
+updated = 2026-04-20
 
 [taxonomies]
 tags = ["website", "static-site-generator", "zola"]
@@ -26,34 +26,6 @@ In April 2026, I found out about [Zola](https://www.getzola.org/), a static site
 ## Zola and the `terminus` theme
 
 Given how frustrating my experience with Hugo had turned out to be, I decided to give Zola a try. However, Zola's theme ecosystem is not as mature as Hugo's yet and I could not find a theme that quite replicates the look and feel of the academic profile theme of Hugo. Hence, I ventured into a different direction -- using the [`terminus`](https://github.com/ebkalderon/terminus) theme for a minimalistic and clean look. I have somewhat [customised the theme](https://github.com/ebkalderon/terminus/pull/17) to suit my needs.
-
-## On-going transition
-
-The transition is still on-going and there are many TODOs before the website is fully ready.
-
-{% alert(type="warning", title="Urgent TODOs") %}
- - [ ] Update the main landing page for the website.
- - [ ] Improve git setup.
-      - [ ] Add a `.pre-commit` configuration.
-      - [ ] Add relevant badges to the README.
-      - [ ] _Maybe_ add a `justfile` or a `Makefile` for common tasks.
-      - [ ] ~Add a LICENSE, perhaps dual license for the creative part and the code, especially the imported theme(s)~. License attributions for the theme(s) and icon(s) are needed.
- - [ ] Improve security hardening for the GitHub actions.
-    - [x] Add `step-security` `harden-runner` to all workflows.
-    - [x] Make sure that all dependencies are pinned. 
-    - [ ] Add `dependabot` for GitHub actions and Zola dependencies.
- - [ ] _Should there be a CHANGELOG_, either as a CHANGELOG.md file or as a section in the website?
- - [x] Remove all TODOs and old content.
-{% end %}
-
-{% alert(type="info", title="On-going improvements") %}
- - [ ] Create a landing page for photography, with a short description leading to external links for the photography work.
- - [ ] _Maybe_ in the `et-cetera` section, attempt to use responsive images to display the profile photos but also have links to make the originals downloadable.
-    - [x] Make Bengali and Japanese writings of my name as SVG.
- - [ ] _Maybe_ add a section for the research work, with links to the papers and patents.
- - [ ] Add more content to the `musings` section.
- - [x] Add more content to highlight open-source projects.
-{% end %}
 
 ## The future
 

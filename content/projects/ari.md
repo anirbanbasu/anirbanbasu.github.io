@@ -2,6 +2,7 @@
 title = "ARI"
 description = "ARI is an experimental user-space implementation of the Recursive InterNetwork Architecture (RINA)."
 date = 2026-04-18
+updated = 2026-04-20
 
 [taxonomies]
 tags = ["software", "prototype", "rust", "network-architecture", "rina", "experimental"]
@@ -18,7 +19,7 @@ ARI is an early-stage research prototype implementation of the Recursive InterNe
 
 You can find the following links related to the ARI project.
 
- - <a href="https://github.com/anirbanbasu/ari" target="_blank">GitHub repository</a> for the ARI project.
+- <a href="https://github.com/anirbanbasu/ari" target="_blank">GitHub repository</a> for the ARI project.
 
 {% alert(type="danger", title="Implementation objective") %}
 ARI is a user-space implementation for experimentation with research concepts that can make use of RINA as well as for the exploration of RINA itself. It is not intended to be a kernel-level production-ready implementation of RINA, and it may not be designed for optimal performance or security.
