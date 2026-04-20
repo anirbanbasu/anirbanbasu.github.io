@@ -43,7 +43,7 @@ The transition is still on-going and there are many TODOs before the website is 
 - [ ] Improve security hardening for the GitHub actions.
   - [x] Add `step-security` `harden-runner` to all workflows.
   - [x] Make sure that all dependencies are pinned.
-  - [ ] Add `dependabot` for GitHub actions and Zola dependencies.
+  - [x] Add `dependabot` for GitHub actions and Zola ~dependencies~ theme submodules.
 - [ ] _Should there be a CHANGELOG_, either as a CHANGELOG.md file or as a section in the website?
 - [x] Remove all TODOs and old content.
 
