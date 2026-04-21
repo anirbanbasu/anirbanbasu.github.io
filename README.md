@@ -7,7 +7,7 @@ This repository containst the contents for the website [https://www.anirbanbasu.
 
 ## Making changes
 
-Changes made through the GitHub web interface to the `content` and `static` directories on the `master` branch will be automatically published to the website. For more significant changes, it is recommended to make changes in a separate branch and create a pull request for review before merging to `master`.
+Quick changes made through the GitHub web interface to the files in the `content` and `static` directories on the `master` branch will be automatically published to the website. For more significant changes, it is recommended to make changes in a separate branch and create a pull request for review before merging to `master`.
 
 To set up a development environment for the website, follow the instructions below.
 
@@ -21,7 +21,7 @@ To set up a development environment for the website, follow the instructions bel
 2. **Install necessary tools:**
     - _just_ is a handy command runner, which you can install using [the instructions](https://github.com/casey/just?tab=readme-ov-file#installation).
     - _prek_ is a fast Rust-based alternative to `pre-commit`, which you can install using [the instructions](https://prek.j178.dev/installation/).
-    - _osv-scanner_ is a tool for scanning dependencies for vulnerabilities, which you can install using [the instructions](https://google.github.io/osv-scanner/installation/). _Note that this is not really necessary because the website does not have many dependencies, but it is a good practice to have it set up for any future additions._
+    - _osv-scanner_ is a tool for scanning dependencies for vulnerabilities, which you can install using [the instructions](https://google.github.io/osv-scanner/installation/). _Note that this is not really necessary because the website does not have dependencies similar to a software program or a library, but it is a good practice to have it set up for any future additions._
 
 3. **Set up pre-commit hooks:**
    To ensure code quality and consistency, we use `pre-commit` hooks. You can set them up by running:
@@ -29,6 +29,8 @@ To set up a development environment for the website, follow the instructions bel
    ```bash
    just install-pre-commit-hooks
    ```
+
+   Note that in the future, there may be better ways to do this, based on the [just released version 2.54 of `git`](https://gitlab.com/git-scm/git/-/blob/HEAD/Documentation/RelNotes/2.54.0.adoc).
 
 4. **Check available `just` recipes:**
    You can check the available `just` recipes for various development tasks by running:
@@ -56,4 +58,4 @@ To set up a development environment for the website, follow the instructions bel
 This site is built using the following open-source components:
 
 - **Theme:** Based on [terminus](https://github.com/ebkalderon/terminus) for [Zola](https://www.getzola.org/).
-- **Fonts and icons:** Included as part of the theme along with some additional [Font Awesome Free](https://fontawesome.com) assets.
+- **Fonts and icons:** Included as part of the theme along with some additional [Font Awesome Free](https://fontawesome.com) assets within the `static` directory and its sub-directories.
