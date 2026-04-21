@@ -18,8 +18,10 @@ serve:
 
 # Update any theme submodules (if applicable)
 update-theme-submodules:
-    @echo "Updating theme submodules..."
-    @git submodule update --init --recursive
+    @echo "Updating theme submodules. This will clean and reset all submodules to ensure they are up to date with their remote repositories."
+    @git submodule foreach --recursive git clean -fdx
+    @git submodule foreach --recursive git reset --hard
+    @git submodule update --init --recursive --remote
     @echo "Theme submodules updated."
 
 # Run the Open Source Vulnerability scanner

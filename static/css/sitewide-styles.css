@@ -1,0 +1,6 @@
+/* Override default image styling for the logo */
+.logo-img {
+    display: inline;
+    height: calc(var(--line-height) * 2);
+    margin: 0px;
+}

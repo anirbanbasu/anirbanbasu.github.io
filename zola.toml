@@ -92,6 +92,9 @@ favicon = "images/favicon.png"
 layout = "center"
 show_default_author = false
 
+# Site-wide additional stylesheets and theme overrides
+stylesheets = ["css/sitewide-styles.css"]
+
 # Customize the copyright text shown in the site footer using markdown.
 #
 # Strings delimited by `::` will be split into mobile-responsive HTML spans. If

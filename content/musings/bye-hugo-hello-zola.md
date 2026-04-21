@@ -2,7 +2,7 @@
 title = "Goodbye, HugoBlox (and Hugo)! Hello, Zola!"
 description = "Finally, something better than HugoBlox!"
 date = 2026-04-18
-updated = 2026-04-21
+updated = 2026-04-22
 
 [taxonomies]
 tags = ["website", "static-site-generator", "zola"]
@@ -25,7 +25,7 @@ In April 2026, I found out about [Zola](https://www.getzola.org/), a static site
 
 ## Zola and the `terminus` theme
 
-Given how frustrating my experience with Hugo had turned out to be, I decided to give Zola a try. However, Zola's theme ecosystem is not as mature as Hugo's yet and I could not find a theme that quite replicates the look and feel of the academic profile theme of Hugo. Hence, I ventured into a different direction -- using the [`terminus`](https://github.com/ebkalderon/terminus) theme for a minimalistic and clean look. I have somewhat [customised the theme](https://github.com/ebkalderon/terminus/pull/17) to suit my needs.
+Given how frustrating my experience with Hugo had turned out to be, I decided to give Zola a try. However, Zola's theme ecosystem is not as mature as Hugo's yet and I could not find a theme that quite replicates the look and feel of the academic profile theme of Hugo. Hence, I ventured into a different direction -- using the [`terminus`](https://github.com/ebkalderon/terminus) theme for a minimalistic and clean look. I have [customised the theme](https://github.com/ebkalderon/terminus/pull/17), thanks [Eyal Kalderon](https://github.com/ebkalderon) for the theme and for accepting my customisations.
 
 ## The future
 
