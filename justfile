@@ -16,6 +16,7 @@ serve:
     @zola serve
     @echo "Website is being served at http://127.0.0.1:1111"
 
+# Update any theme submodules (if applicable)
 update-theme-submodules:
     @echo "Updating theme submodules..."
     @git submodule update --init --recursive
@@ -26,3 +27,10 @@ vulnerability-scan:
     @echo "Running Open Source Vulnerability scanner..."
     @osv-scanner scan source -r .
     @echo "Vulnerability scan complete."
+
+# Generate and push a lightweight CalVer tag (without creating a release) for the latest commit
+calver-tag:
+    @echo "Generating lightweight CalVer tag for the latest commit..."
+    @git tag -s -a v$(date +%Y.%m.%d)
+    @git push origin v$(date +%Y.%m.%d)
+    @echo "Lightweight tag v$(date +%Y.%m.%d) generated and pushed."
