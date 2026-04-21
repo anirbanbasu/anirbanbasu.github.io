@@ -1,14 +1,17 @@
 +++
 title = "Et cetera"
 date = 2026-04-18
-updated = 2026-04-20
+updated = 2026-04-21
 
 [taxonomies]
 tags = ["name", "profile-picture"]
 categories = ["et-cetera"]
+
+[extra]
+stylesheets = ["css/page-styles.css"]
 +++
 
-_Et cetera (abbreviated as etc.) is a Latin phrase meaning “and the rest” or “and other things”. It is used at the end of a list to indicate that further, similar items are implied without being specifically named. Common synonyms include "and so on," "and so forth," and "and the like"._
+_Et cetera (abbreviated as etc.) is a Latin phrase meaning “and the rest” or “and other things”._
 
 ## My name
 
@@ -19,14 +22,14 @@ If you would like to see how my name is written but do not have the Bengali or J
 <details>
 <summary>Full name in Bengali, in the left-to-right reading order</summary>
 
-<img src="/images/bengali-name.svg" alt="Anirban Basu in Bengali" style="background-color: var(--accent-color); color: var(--text-color); margin-left: auto; margin-right: auto; display: block; border-radius: 8px; object-fit: cover;" />
+<img src="/images/bengali-name.svg" alt="Anirban Basu in Bengali" class="ps-round-bordered-image ps-horizontally-centered ps-background-colour-accent" />
 
 </details>
 
 <details>
 <summary>Full name in Japanese (Katakana), with the family name first, in the left-to-right reading order</summary>
 
-<img src="/images/katakana-name.svg" alt="Anirban Basu in Japanese (Katakana)" style="background-color: var(--accent-color); color: var(--text-color); margin-left: auto; margin-right: auto; display: block; border-radius: 8px; object-fit: cover;" />
+<img src="/images/katakana-name.svg" alt="Anirban Basu in Japanese (Katakana)"  class="ps-round-bordered-image ps-horizontally-centered ps-background-colour-accent" />
 
 </details>
 

@@ -8,3 +8,5 @@ insert_anchor_links = "right"
 [extra]
 copy_button = true
 +++
+
+_Random thoughts and even notes to self, on various topics._
