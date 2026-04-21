@@ -1,14 +1,14 @@
 +++
 title = "Research"
 date = 2026-04-17
-updated = 2026-04-20
+updated = 2026-04-21
 
 [taxonomies]
 tags = ["research", "computational-trust", "artificial-intelligence", "privacy", "security"]
 categories = ["research"]
 +++
 
-With more than a decade of research experience within both academia and industry, I have co-authored 80+ research papers and 30+ Japanese patents. My publications have been cited more than 3,000 times setting my overall h-index to 25 (source: <a href="https://scholar.google.com/citations?user=XHB3pcYAAAAJ&hl=en" target="_blank">Google Scholar</a>). My current research is based on a user-empowering view of computational trust in human-machine interactions; and the role of computational trust in security, privacy and artificial intelligence. I like working on complex problems that require multi-disciplinary approaches.
+With more than a decade of research experience within both academia and industry, I have co-authored 85+ research papers and 30+ Japanese patents. My publications have been cited more than 3,000 times setting my overall h-index to 25 (source: <a href="https://scholar.google.com/citations?user=XHB3pcYAAAAJ&hl=en" target="_blank">Google Scholar</a>). My current research is based on a user-empowering view of computational trust in human-machine interactions; and the role of computational trust in security, privacy and artificial intelligence. I like working on complex problems that require multi-disciplinary approaches.
 
 ## Publications
 
