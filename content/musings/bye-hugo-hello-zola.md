@@ -2,7 +2,7 @@
 title = "Goodbye, HugoBlox (and Hugo)! Hello, Zola!"
 description = "Finally, something better than HugoBlox!"
 date = 2026-04-18
-updated = 2026-04-20
+updated = 2026-04-21
 
 [taxonomies]
 tags = ["website", "static-site-generator", "zola"]
@@ -29,4 +29,4 @@ Given how frustrating my experience with Hugo had turned out to be, I decided to
 
 ## The future
 
-So far, so good but it is too early to tell how Zola or compatible themes evolve over time. Let's see how it unfolds.
+So far, so good but it is too early to tell how Zola and its themes evolve over time. Let's see how it unfolds.
