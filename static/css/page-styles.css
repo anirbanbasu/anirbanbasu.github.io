@@ -1,0 +1,48 @@
+.ps-two-column-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+}
+
+.ps-two-column-container>* {
+    min-width: 0;
+}
+
+.ps-two-column-container> :first-child {
+    flex: 0 0 30%;
+    max-width: 30%;
+}
+
+.ps-two-column-container> :nth-child(2) {
+    flex: 0 0 65%;
+    max-width: 65%;
+}
+
+@media (max-width: 684px) {
+    .ps-two-column-container {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .ps-two-column-container> :first-child,
+    .ps-two-column-container> :nth-child(2) {
+        flex: 1 1 100%;
+        max-width: 100%;
+    }
+}
+
+.ps-round-bordered-image {
+    display: block;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.ps-horizontally-centered {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ps-background-colour-accent {
+    background-color: var(--accent-color);
+}
