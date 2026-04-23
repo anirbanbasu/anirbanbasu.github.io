@@ -5,7 +5,12 @@
     margin: 0px;
 }
 
-pre code.language-bibtex,
+.table-publication-metadata {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 1em;
+}
+
 pre code[data-lang="bibtex"] {
     white-space: pre-wrap !important;
     overflow-wrap: anywhere;

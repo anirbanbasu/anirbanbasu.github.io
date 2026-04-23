@@ -1,6 +1,7 @@
 +++
 title = "Thinking about Trust: People, Process, and Place"
 date = 2020-06-01
+updated = "2026-04-23"
 description = "2020: Elsevier Cell Patterns"
 
 [taxonomies]
@@ -10,12 +11,13 @@ categories = ["publications"]
 
 <!-- citation: marsh2020thinking -->
 
-_Stephen Marsh; Tosan Atele-Williams; Anirban Basu; Natasha Dwyer; Peter R. Lewis; Hector Miller-Bakewell; Jeremy Pitt_
+
+_Stephen Marsh, Tosan Atele-Williams, Anirban Basu, Natasha Dwyer, Peter R. Lewis, Hector Miller-Bakewell and Jeremy Pitt_
 
 
 
 <h2>Publication metadata</h2>
-<table>
+<table class="table-publication-metadata">
 <thead>
 <tr>
 <th>Field</th>

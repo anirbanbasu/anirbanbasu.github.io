@@ -1,6 +1,7 @@
 +++
 title = "SCATMAN: A Framework for Enhancing Trustworthiness in Digital Supply Chains"
 date = 2023-01-01
+updated = "2026-04-23"
 description = "2023: Proceedings of the International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)"
 
 [taxonomies]
@@ -10,12 +11,13 @@ categories = ["publications"]
 
 <!-- citation: eckel2023scatman -->
 
-_Michael Eckel; Anirban Basu; Satoshi Kai; Hevais Simo Fhom; Sinisa Dukanovic; Henk Birkholz; Shingo Hane; Matthias Lieske_
+
+_Michael Eckel, Anirban Basu, Satoshi Kai, Hevais Simo Fhom, Sinisa Dukanovic, Henk Birkholz, Shingo Hane and Matthias Lieske_
 
 
 
 <h2>Publication metadata</h2>
-<table>
+<table class="table-publication-metadata">
 <thead>
 <tr>
 <th>Field</th>

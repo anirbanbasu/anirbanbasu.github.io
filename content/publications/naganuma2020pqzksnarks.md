@@ -1,6 +1,7 @@
 +++
 title = "Post-quantum zk-SNARKs from QAP/SAP"
 date = 2020-01-01
+updated = "2026-04-23"
 description = "2020: Symposium on Cryptography and Information Security"
 
 [taxonomies]
@@ -10,12 +11,13 @@ categories = ["publications"]
 
 <!-- citation: naganuma2020pqzksnarks -->
 
-_Ken Naganuma; Masayuki Yoshino; Anirban Basu; Noboru Kunihiro_
+
+_Ken Naganuma, Masayuki Yoshino, Anirban Basu and Noboru Kunihiro_
 
 
 
 <h2>Publication metadata</h2>
-<table>
+<table class="table-publication-metadata">
 <thead>
 <tr>
 <th>Field</th>

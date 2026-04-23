@@ -1,6 +1,7 @@
 +++
 title = "Practical confidential data cleaning using trusted execution environments"
 date = 2025-01-01
+updated = "2026-04-23"
 description = "2025: Proceedings of the IEEE International Conference on Cyber Security and Resilience (CSR)"
 
 [taxonomies]
@@ -10,12 +11,13 @@ categories = ["publications"]
 
 <!-- citation: basu2025practical -->
 
-_Anirban Basu; Masayuki Yoshino; Minako Toba_
+
+_Anirban Basu, Masayuki Yoshino and Minako Toba_
 
 
 
 <h2>Publication metadata</h2>
-<table>
+<table class="table-publication-metadata">
 <thead>
 <tr>
 <th>Field</th>
