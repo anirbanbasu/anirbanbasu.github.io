@@ -4,3 +4,17 @@
     height: calc(var(--line-height) * 2);
     margin: 0px;
 }
+
+pre code.language-bibtex,
+pre code[data-lang="bibtex"] {
+    white-space: pre-wrap !important;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+    overflow-x: visible !important;
+}
+
+pre code[data-lang="bibtex"] .giallo-l {
+    white-space: inherit;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+}
