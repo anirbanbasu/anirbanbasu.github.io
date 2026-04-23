@@ -1,7 +1,7 @@
 +++
 title = "Post-quantum zk-SNARKs from QAP/SAP"
 date = 2020-01-01
-updated = "2026-04-23"
+updated = "2026-04-24"
 description = "2020: Symposium on Cryptography and Information Security"
 
 [taxonomies]
@@ -12,18 +12,11 @@ categories = ["publications"]
 <!-- citation: naganuma2020pqzksnarks -->
 
 
-_Ken Naganuma, Masayuki Yoshino, Anirban Basu and Noboru Kunihiro_
+<h3><i>Ken Naganuma, Masayuki Yoshino, Anirban Basu and Noboru Kunihiro</i></h3>
 
 
 
-<h2>Publication details</h2>
 <table class="table-publication-metadata">
-<thead>
-<tr>
-<th>Field</th>
-<th>Value</th>
-</tr>
-</thead>
 <tbody>
 
 
@@ -57,7 +50,9 @@ _Ken Naganuma, Masayuki Yoshino, Anirban Basu and Noboru Kunihiro_
 </table>
 
 
-<h2>BibTeX</h2>
+
+<details>
+<summary>Cite this publication, using BibTeX</summary>
 
 ```bibtex
 @inproceedings{naganuma2020pqzksnarks,
@@ -69,3 +64,5 @@ _Ken Naganuma, Masayuki Yoshino, Anirban Basu and Noboru Kunihiro_
   year = {2020},
 }
 ```
+
+</details>

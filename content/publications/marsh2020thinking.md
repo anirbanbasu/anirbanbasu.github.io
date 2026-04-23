@@ -1,7 +1,7 @@
 +++
 title = "Thinking about Trust: People, Process, and Place"
 date = 2020-06-01
-updated = "2026-04-23"
+updated = "2026-04-24"
 description = "2020: Elsevier Cell Patterns"
 
 [taxonomies]
@@ -12,18 +12,11 @@ categories = ["publications"]
 <!-- citation: marsh2020thinking -->
 
 
-_Stephen Marsh, Tosan Atele-Williams, Anirban Basu, Natasha Dwyer, Peter R. Lewis, Hector Miller-Bakewell and Jeremy Pitt_
+<h3><i>Stephen Marsh, Tosan Atele-Williams, Anirban Basu, Natasha Dwyer, Peter R. Lewis, Hector Miller-Bakewell and Jeremy Pitt</i></h3>
 
 
 
-<h2>Publication details</h2>
 <table class="table-publication-metadata">
-<thead>
-<tr>
-<th>Field</th>
-<th>Value</th>
-</tr>
-</thead>
 <tbody>
 
 
@@ -77,7 +70,9 @@ _Stephen Marsh, Tosan Atele-Williams, Anirban Basu, Natasha Dwyer, Peter R. Lewi
 </table>
 
 
-<h2>BibTeX</h2>
+
+<details>
+<summary>Cite this publication, using BibTeX</summary>
 
 ```bibtex
 @article{marsh2020thinking,
@@ -91,3 +86,5 @@ _Stephen Marsh, Tosan Atele-Williams, Anirban Basu, Natasha Dwyer, Peter R. Lewi
   year = {2020},
 }
 ```
+
+</details>

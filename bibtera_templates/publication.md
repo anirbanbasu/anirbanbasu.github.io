@@ -12,20 +12,13 @@ categories = ["publications"]
 <!-- citation: {{ key }} -->
 
 {% set author_count = authors | length %}
-_{% for author in authors %}{% set display_author = author | replace(from="\myname", to="Anirban Basu") | replace(from="\ ", to=" ") %}{% if author_count == 1 %}{{ display_author }}{% elif loop.last %}and {{ display_author }}{% elif loop.index == author_count - 1 %}{{ display_author }} {% else %}{{ display_author }}, {% endif %}{% endfor %}_
+<h3><i>{% for author in authors %}{% set display_author = author | replace(from="\myname", to="Anirban Basu") | replace(from="\ ", to=" ") %}{% if author_count == 1 %}{{ display_author }}{% elif loop.last %}and {{ display_author }}{% elif loop.index == author_count - 1 %}{{ display_author }} {% else %}{{ display_author }}, {% endif %}{% endfor %}</i></h3>
 
 {% if fields %}
 {% if fields.abstract is defined and fields.abstract %}
-<div>{{ fields.abstract }}</div>
+<div><b>Abstract:</b> {{ fields.abstract }}</div>
 {% endif %}
-<h2>Publication details</h2>
 <table class="table-publication-metadata">
-<thead>
-<tr>
-<th>Field</th>
-<th>Value</th>
-</tr>
-</thead>
 <tbody>
 {% for key, value in fields %}
 {% if key != "abstract" %}
@@ -45,9 +38,13 @@ _{% for author in authors %}{% set display_author = author | replace(from="\myna
 </table>
 {% endif %}
 
-<h2>BibTeX</h2>
 {% if raw_bibtex is defined and raw_bibtex %}
+<details>
+<summary>Cite this publication, using BibTeX</summary>
+
 ```bibtex
 {{ raw_bibtex | trim | replace(from="\myname", to="Basu, Anirban") }}
 ```
+
+</details>
 {% endif %}

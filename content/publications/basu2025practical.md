@@ -1,7 +1,7 @@
 +++
 title = "Practical confidential data cleaning using trusted execution environments"
 date = 2025-01-01
-updated = "2026-04-23"
+updated = "2026-04-24"
 description = "2025: Proceedings of the IEEE International Conference on Cyber Security and Resilience (CSR)"
 
 [taxonomies]
@@ -12,18 +12,11 @@ categories = ["publications"]
 <!-- citation: basu2025practical -->
 
 
-_Anirban Basu, Masayuki Yoshino and Minako Toba_
+<h3><i>Anirban Basu, Masayuki Yoshino and Minako Toba</i></h3>
 
 
 
-<h2>Publication details</h2>
 <table class="table-publication-metadata">
-<thead>
-<tr>
-<th>Field</th>
-<th>Value</th>
-</tr>
-</thead>
 <tbody>
 
 
@@ -66,7 +59,9 @@ _Anirban Basu, Masayuki Yoshino and Minako Toba_
 </table>
 
 
-<h2>BibTeX</h2>
+
+<details>
+<summary>Cite this publication, using BibTeX</summary>
 
 ```bibtex
 @inproceedings{basu2025practical,
@@ -79,3 +74,5 @@ _Anirban Basu, Masayuki Yoshino and Minako Toba_
   year = {2025},
 }
 ```
+
+</details>
