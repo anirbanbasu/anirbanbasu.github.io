@@ -38,7 +38,7 @@ categories = ["publications"]
 
 
 
-<td><a href="https://doi.org/10.1016/j.future.2018.12.044" target="_blank">https://doi.org/10.1016/j.future.2018.12.044</a></td>
+<td><a href="https://doi.org/10.1016/j.future.2018.12.044" target="_blank">10.1016/j.future.2018.12.044</a></td>
 
 </tr>
 
@@ -114,7 +114,7 @@ categories = ["publications"]
   issn = {0167-739X},
   journal = {Future Generation Computer Systems},
   keywords = {Blockchain, Decentralization, Healthcare data in cloud, Pseudonymity, Privacy, Security, Smart contract},
-  month = {jan},
+  month = {January},
   pages = {511–521},
   title = {Privacy-friendly platform for healthcare data in cloud based on blockchain environment},
   volume = {95},

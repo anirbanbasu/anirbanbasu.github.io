@@ -27,7 +27,7 @@ categories = ["publications"]
 {% if key | lower == "doi" %}
 {% set doi_path = value | trim | replace(from="https://doi.org/", to="") | replace(from="http://doi.org/", to="") %}
 {% set doi_url = "https://doi.org/" ~ doi_path %}
-<td><a href="{{ doi_url }}" target="_blank">{{ doi_url }}</a></td>
+<td><a href="{{ doi_url }}" target="_blank">{{ doi_path }}</a></td>
 {% else %}
 <td>{{ value | trim }}</td>
 {% endif %}

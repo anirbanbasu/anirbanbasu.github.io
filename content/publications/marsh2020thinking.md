@@ -25,7 +25,7 @@ categories = ["publications"]
 
 
 
-<td><a href="https://doi.org/10.1016/j.patter.2020.100039" target="_blank">https://doi.org/10.1016/j.patter.2020.100039</a></td>
+<td><a href="https://doi.org/10.1016/j.patter.2020.100039" target="_blank">10.1016/j.patter.2020.100039</a></td>
 
 </tr>
 
