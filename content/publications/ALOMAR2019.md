@@ -65,7 +65,7 @@ categories = ["publications"]
 <tr>
 <th scope="col">keywords</th>
 
-<td>Blockchain, Decentralization, Healthcare data in cloud, Pseudonymity, Privacy, Security, Smart contract</td>
+<td>blockchain, decentralization, healthcare-data-in-cloud, pseudonymity, privacy, security, smart-contract</td>
 
 </tr>
 

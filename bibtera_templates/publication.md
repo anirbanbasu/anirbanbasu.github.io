@@ -28,6 +28,8 @@ categories = ["publications"]
 {% set doi_path = value | trim | replace(from="https://doi.org/", to="") | replace(from="http://doi.org/", to="") %}
 {% set doi_url = "https://doi.org/" ~ doi_path %}
 <td><a href="{{ doi_url }}" target="_blank">{{ doi_path }}</a></td>
+{% elif key | lower == "keywords" %}
+<td>{% for kw in slugified_keywords %}{{ kw }}{% if not loop.last %}, {% endif %}{% endfor %}</td>
 {% else %}
 <td>{{ value | trim }}</td>
 {% endif %}
