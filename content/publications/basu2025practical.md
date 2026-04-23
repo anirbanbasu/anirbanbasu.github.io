@@ -16,7 +16,7 @@ _Anirban Basu, Masayuki Yoshino and Minako Toba_
 
 
 
-<h2>Publication metadata</h2>
+<h2>Publication details</h2>
 <table class="table-publication-metadata">
 <thead>
 <tr>
@@ -66,7 +66,7 @@ _Anirban Basu, Masayuki Yoshino and Minako Toba_
 </table>
 
 
-<h3>Raw BibTeX entry</h3>
+<h2>BibTeX</h2>
 
 ```bibtex
 @inproceedings{basu2025practical,

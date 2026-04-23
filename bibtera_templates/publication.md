@@ -18,7 +18,7 @@ _{% for author in authors %}{% set display_author = author | replace(from="\myna
 {% if fields.abstract is defined and fields.abstract %}
 <div>{{ fields.abstract }}</div>
 {% endif %}
-<h2>Publication metadata</h2>
+<h2>Publication details</h2>
 <table class="table-publication-metadata">
 <thead>
 <tr>
@@ -45,7 +45,7 @@ _{% for author in authors %}{% set display_author = author | replace(from="\myna
 </table>
 {% endif %}
 
-<h3>Raw BibTeX entry</h3>
+<h2>BibTeX</h2>
 {% if raw_bibtex is defined and raw_bibtex %}
 ```bibtex
 {{ raw_bibtex | trim | replace(from="\myname", to="Basu, Anirban") }}

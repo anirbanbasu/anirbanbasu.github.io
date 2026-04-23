@@ -16,7 +16,7 @@ _Ken Naganuma, Masayuki Yoshino, Anirban Basu and Noboru Kunihiro_
 
 
 
-<h2>Publication metadata</h2>
+<h2>Publication details</h2>
 <table class="table-publication-metadata">
 <thead>
 <tr>
@@ -57,7 +57,7 @@ _Ken Naganuma, Masayuki Yoshino, Anirban Basu and Noboru Kunihiro_
 </table>
 
 
-<h3>Raw BibTeX entry</h3>
+<h2>BibTeX</h2>
 
 ```bibtex
 @inproceedings{naganuma2020pqzksnarks,
