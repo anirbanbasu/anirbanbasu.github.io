@@ -29,7 +29,7 @@ BibTera is meant to work on Linux, including Windows Subsystem for Linux (WSL), 
 
 Always check the project's GitHub repository for the latest installation instructions and updates.
 
-_**BibTera is experimental and in an early stage of development, through AI-assisted coding. It may have bugs and may not be suitable for production use yet. Use it at your own risk**_.
+_**BibTera is experimental and is being developed through AI-assisted coding. It may have bugs making it unsuitable for production use yet. Use it at your own risk**_.
 
 </details>
 
