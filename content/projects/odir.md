@@ -1,13 +1,15 @@
 +++
 title = "Ollama Downloader in Rust (ODIR)"
 description = "Ollama Downloader in Rust (ODIR) is a command-line tool written in Rust for downloading models from Ollama."
-date = 2026-04-18
-updated = 2026-04-20
+date = 2026-02-16
+updated = 2026-04-24
 
 [taxonomies]
 tags = ["software", "rust", "ollama", "local-ai", "artificial-intelligence", "downloader", "tool", "command-line-tool"]
 categories = ["open-source"]
 +++
+
+<a href="https://github.com/anirbanbasu/odir" target="_blank"><button>Code repository</button></a>
 
 [Ollama](https://ollama.com/) is an open-source tool that faciliates the user to download and run large language models (LLMs) such as Llama 3, Mistral, and Gemma on a local computer. It acts as a lightweight runtime and model manager, making it easy to use artificial intelligence (AI) models without relying on cloud services. It has the capability to run some models on the Ollama cloud too.
 

@@ -12,7 +12,7 @@ categories = ["publications"]
 <!-- citation: {{ key }} -->
 
 {% set author_count = authors | length %}
-<h3><i>{% for author in authors %}{% set display_author = author | replace(from="\myname", to="Anirban Basu") | replace(from="\ ", to=" ") %}{% if author_count == 1 %}{{ display_author }}{% elif loop.last %}and {{ display_author }}{% elif loop.index == author_count - 1 %}{{ display_author }} {% else %}{{ display_author }}, {% endif %}{% endfor %}</i></h3>
+<h3><i>{% for author in authors %}{% set display_author = author | replace(from="\myname", to="<u>Anirban Basu</u>") | replace(from="\ ", to=" ") %}{% if author_count == 1 %}{{ display_author }}{% elif loop.last %}and {{ display_author }}{% elif loop.index == author_count - 1 %}{{ display_author }} {% else %}{{ display_author }}, {% endif %}{% endfor %}</i></h3>
 
 {% if fields %}
 {% if fields.abstract is defined and fields.abstract %}
@@ -24,14 +24,17 @@ categories = ["publications"]
 {% if key != "abstract" %}
 <tr>
 <th scope="col">{{ key }}</th>
+{% set trimmed_value = value | trim %}
 {% if key | lower == "doi" %}
-{% set doi_path = value | trim | replace(from="https://doi.org/", to="") | replace(from="http://doi.org/", to="") %}
+{% set doi_path = trimmed_value | replace(from="https://doi.org/", to="") | replace(from="http://doi.org/", to="") %}
 {% set doi_url = "https://doi.org/" ~ doi_path %}
 <td><a href="{{ doi_url }}" target="_blank">{{ doi_path }}</a></td>
+{% elif key | lower == "url" and (trimmed_value is starting_with("http://") or trimmed_value is starting_with("https://")) %}
+<td><a href="{{ trimmed_value }}" target="_blank">Link</a></td>
 {% elif key | lower == "keywords" %}
 <td>{% for kw in slugified_keywords %}{{ kw }}{% if not loop.last %}, {% endif %}{% endfor %}</td>
 {% else %}
-<td>{{ value | trim }}</td>
+<td>{{ trimmed_value }}</td>
 {% endif %}
 </tr>
 {% endif %}

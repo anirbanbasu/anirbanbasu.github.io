@@ -16,11 +16,17 @@ Click on the buttons below to see the publications list in reverse-chronological
 
 <a href="/files/publications-by-year.pdf" target="_blank"><button>Publications list by year (PDF)</button></a> <a href="/files/publications-by-type.pdf" target="_blank"><button>Publications list by type (PDF)</button></a>
 
+{% alert(type="warning", title="Experimental selected publications") %}
+
+I am currently experimenting with a new way of presenting selected publications on this website, see [publications](/publications/). The publications are parsed from my BibTeX file and formatted using a custom template through a tool called [BibTera](https://github.com/anirbanbasu/bibtera), which I am developing.
+
+{% end %}
+
 ## Background
 
 <a href="/files/cv.pdf" target="_blank"><button>2-page curriculum vitae/résumé (PDF)</button></a>
 
-{% alert(type="warning", title="Broad research interests") %}
+{% alert(type="note", title="Broad research interests") %}
 
 - Computational trust: in particular the decisional perspective of trust.
 - Artificial Intelligence (AI): trust and AI, local AI, neuro-symbolic AI, amongst others.
@@ -31,7 +37,7 @@ _Also, interested in a variety of other topics, which may be sometimes seen as d
 
 {% end %}
 
-{% alert(type="info", title="Current research affiliations") %}
+{% alert(type="note", title="Current research affiliations") %}
 
 - _Senior Researcher_ at Hitachi R&D, Japan (2018-present)
 - [_Honorary Research Fellow_](https://profiles.sussex.ac.uk/p134568-anirban-basu) at the University of Sussex, UK (2010-present)

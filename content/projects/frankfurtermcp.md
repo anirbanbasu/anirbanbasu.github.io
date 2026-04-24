@@ -1,13 +1,15 @@
 +++
 title = "Frankfurter MCP"
 description = "Frankfurter MCP exposes tools for fiat currency rates and conversions over the Model Context Protocol."
-date = 2026-04-18
-updated = 2026-04-20
+date = 2025-06-07
+updated = 2026-04-24
 
 [taxonomies]
 tags = ["software", "python", "model-context-protocol", "artificial-intelligence", "mcp", "currency-conversion", "exchange-rates"]
 categories = ["open-source"]
 +++
+
+<a href="https://github.com/anirbanbasu/frankfurtermcp" target="_blank"><button>Code repository</button></a>
 
 [Frankfurter](https://frankfurter.dev/) is a useful API for latest currency exchange rates, historical data, or time series published by sources such as the European Central Bank (ECB).
 

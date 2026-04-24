@@ -1,13 +1,15 @@
 +++
 title = "ARI"
 description = "ARI is an experimental user-space implementation of the Recursive InterNetwork Architecture (RINA)."
-date = 2026-04-18
-updated = 2026-04-20
+date = 2026-01-16
+updated = 2026-04-24
 
 [taxonomies]
 tags = ["software", "prototype", "rust", "network-architecture", "rina", "experimental"]
 categories = ["open-source"]
 +++
+
+<a href="https://github.com/anirbanbasu/ari" target="_blank"><button>Code repository</button></a>
 
 > The Recursive InterNetwork Architecture (RINA) is a new computer network architecture proposed as an alternative to the architecture of the currently mainstream Internet protocol suite. The principles behind RINA were first presented by John Day in his 2008 book _Patterns in Network Architecture: A return to Fundamentals_.
 >
