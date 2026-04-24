@@ -2,7 +2,7 @@
 title = "Privacy-friendly platform for healthcare data in cloud based on blockchain environment"
 date = 2019-01-08
 updated = "2026-04-24"
-description = "2019: Future Generation Computer Systems"
+description = "[2019] Future Generation Computer Systems"
 
 [taxonomies]
 tags = ["blockchain", "decentralization", "healthcare-data-in-cloud", "pseudonymity", "privacy", "security", "smart-contract"]

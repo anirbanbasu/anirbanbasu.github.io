@@ -2,7 +2,7 @@
 title = "SCATMAN: A Framework for Enhancing Trustworthiness in Digital Supply Chains"
 date = 2023-11-01
 updated = "2026-04-24"
-description = "2023: Proceedings of the IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)"
+description = "[2023] Proceedings of the IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)"
 
 [taxonomies]
 tags = ["privacy", "distributed-ledger", "digital-systems", "supply-chains", "distributed-databases", "computer-architecture", "software", "trustworthiness", "integrity", "transparency", "trusted-computing", "confidential-computing", "society-5-0", "industrie-4-0", "digital-twin", "supply-chain-security", "distributed-system-security", "smart-factory", "blockchain-technology"]

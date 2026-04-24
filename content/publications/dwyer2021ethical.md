@@ -2,7 +2,7 @@
 title = "The ethical implications of using digital traces: studying explainability and trust during a pandemic"
 date = 2021-11-29
 updated = "2026-04-24"
-description = "2021: Qualitative and Digital Research in Times of Crisis: Methods, Reflexivity, and Ethics"
+description = "[2021] Qualitative and Digital Research in Times of Crisis: Methods, Reflexivity, and Ethics"
 
 [taxonomies]
 tags = ["social-research-methods", "qualitative-methods", "creative-methods", "disaster-and-crisis-management", "research-practices", "research-ethics", "research-reflexivity", "researcher-positionality", "digital-research-methods", "digital-data", "digital-traces", "data-ethics", "data-privacy", "data-protection", "data-security", "data-sharing", "data-reuse"]

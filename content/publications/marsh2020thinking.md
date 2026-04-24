@@ -2,7 +2,7 @@
 title = "Thinking about Trust: People, Process, and Place"
 date = 2020-06-12
 updated = "2026-04-24"
-description = "2020: Elsevier Cell Patterns"
+description = "[2020] Elsevier Cell Patterns"
 
 [taxonomies]
 tags = ["trust", "trustworthiness", "data", "people", "trust-empowerment", "artificial-intelligence"]

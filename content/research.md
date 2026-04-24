@@ -1,7 +1,7 @@
 +++
 title = "Research"
 date = 2026-04-17
-updated = 2026-04-21
+updated = 2026-04-24
 
 [taxonomies]
 tags = ["research", "computational-trust", "artificial-intelligence", "privacy", "security"]
@@ -12,15 +12,15 @@ With more than a decade of research experience within both academia and industry
 
 ## Publications
 
+{% alert(type="warning", title="Experimental subset of publications") %}
+
+I am currently experimenting with a new way of presenting a subset of publications on this website, see [publications](/publications/). The publications are parsed from my BibTeX file and formatted using a custom template through a tool called [BibTera](projects/bibtera), which I am developing.
+
+{% end %}
+
 Click on the buttons below to see the publications list in reverse-chronological order by year or by type.
 
 <a href="/files/publications-by-year.pdf" target="_blank"><button>Publications list by year (PDF)</button></a> <a href="/files/publications-by-type.pdf" target="_blank"><button>Publications list by type (PDF)</button></a>
-
-{% alert(type="warning", title="Experimental selected publications") %}
-
-I am currently experimenting with a new way of presenting selected publications on this website, see [publications](/publications/). The publications are parsed from my BibTeX file and formatted using a custom template through a tool called [BibTera](https://github.com/anirbanbasu/bibtera), which I am developing.
-
-{% end %}
 
 ## Background
 

@@ -9,4 +9,4 @@ insert_anchor_links = "right"
 copy_button = true
 +++
 
-_My open-source projects, mostly. The dates reflect when each project was initially created._
+_My mostly open-source softwareprojects. Each date reflects when the corresponding project was initially created._

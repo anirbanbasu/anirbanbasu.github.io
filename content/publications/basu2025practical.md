@@ -2,7 +2,7 @@
 title = "Practical confidential data cleaning using trusted execution environments"
 date = 2025-08-04
 updated = "2026-04-24"
-description = "2025: Proceedings of the IEEE International Conference on Cyber Security and Resilience (CSR)"
+description = "[2025] Proceedings of the IEEE International Conference on Cyber Security and Resilience (CSR)"
 
 [taxonomies]
 tags = ["data-privacy", "statistical-analysis", "operating-systems", "machine-learning", "cleaning", "software", "security", "reliability", "resilience", "python", "trusted-execution-environments", "data-cleaning", "security", "privacy", "confidentiality"]

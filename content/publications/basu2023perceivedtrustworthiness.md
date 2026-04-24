@@ -2,7 +2,7 @@
 title = "Software and its perceived trustworthiness"
 date = 2023-10-19
 updated = "2026-04-24"
-description = "2023: Proceedings of the IFIP WG 11.11 International Conference on Trust Management (IFIPTM)"
+description = "[2023] Proceedings of the IFIP WG 11.11 International Conference on Trust Management (IFIPTM)"
 
 [taxonomies]
 tags = ["trust", "trustworthiness", "perceived-trustworthiness", "software-supply-chain", "security"]

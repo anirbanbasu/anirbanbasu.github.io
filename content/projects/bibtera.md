@@ -19,7 +19,7 @@ The BibTeX format is a widely used format for managing bibliographic references 
  If you have the [Rust toolchain installed](https://rust-lang.org/tools/install/), run the following command in your terminal to install BibTera.
 
    ```bash
-   cargo install bibtera
+   cargo install --git https://github.com/anirbanbasu/bibtera
    ```
 
 <details>
@@ -47,7 +47,7 @@ You can find the following links related to the BibTera project.
 
 Some of the use-cases of BibTera include but are not limited to the following.
 
-- Generating a list of Markdown files corresponding to the entries in a BibTeX file, which can be used by a static site generator to create a publications page on a website.
+- Generating a list of Markdown files corresponding to the entries in a BibTeX file.
 - Generating a formatted bibliography in a specific style, such as APA, MLA, Chicago, and so on, from a BibTeX file.
 - Converting a BibTeX file to another format, such as JSON, XML, and so on.
 - Cleaning up a messy BibTeX file and outputting a well-formatted BibTeX file.

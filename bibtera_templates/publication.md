@@ -1,8 +1,8 @@
 +++
 title = "{{ title }}"
-date = {% if fields.date is defined and fields.date %}{{ fields.date }}{% else %}{{ year | default(value="Unknown") }}-{{ fields.month | default(value="01") }}-{{ fields.day | default(value="01") }}{% endif %}
+date = {% if fields.date is defined and fields.date %}{{ fields.date }}{% else %}{{ year | default(value="1970") }}-{{ fields.month | default(value="01") }}-{{ fields.day | default(value="01") }}{% endif %}
 updated = "{{ now() | date(format="%Y-%m-%d") }}"
-description = "{{year}}: {{ fields.journal | default(value=fields.booktitle | default(value=fields.institution | default(value=fields.school | default(value="")))) }}"
+description = "[{{year}}] {{ fields.journal | default(value=fields.booktitle | default(value=fields.institution | default(value=fields.school | default(value="")))) }}"
 
 [taxonomies]
 tags = [{% for kw in slugified_keywords %}"{{ kw }}"{% if not loop.last %}, {% endif %}{% endfor %}]
