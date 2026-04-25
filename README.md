@@ -58,4 +58,4 @@ To set up a development environment for the website, follow the instructions bel
 This site is built using the following open-source components:
 
 - **Theme:** Based on [terminus](https://github.com/ebkalderon/terminus) for [Zola](https://www.getzola.org/).
-- **Fonts and icons:** Included as part of the theme along with some additional [Font Awesome Free](https://fontawesome.com) assets within the `static` directory and its sub-directories.
+- **Fonts and icons:** Included as part of the theme. Additional [Font Awesome Free](https://fontawesome.com) assets, if any, are within the `static` directory and its sub-directories.
