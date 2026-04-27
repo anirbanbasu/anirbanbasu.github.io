@@ -2,7 +2,7 @@
 title = "BibTera"
 description = "A BibTeX translator using the Tera templating engine."
 date = 2026-04-22
-updated = 2026-04-24
+updated = 2026-04-27
 
 [taxonomies]
 tags = ["software", "rust", "bibtex", "tera", "template", "bibliography", "tool", "command-line-tool"]
@@ -19,7 +19,7 @@ The BibTeX format is a widely used format for managing bibliographic references 
  If you have the [Rust toolchain installed](https://rust-lang.org/tools/install/), run the following command in your terminal to install BibTera.
 
    ```bash
-   cargo install --git https://github.com/anirbanbasu/bibtera
+   cargo install bibtera
    ```
 
 <details>
@@ -29,7 +29,7 @@ BibTera is meant to work on Linux, including Windows Subsystem for Linux (WSL), 
 
 Always check the project's GitHub repository for the latest installation instructions and updates.
 
-_**BibTera is experimental and is being developed through AI-assisted coding. It may have bugs making it unsuitable for production use yet. Use it at your own risk**_.
+_**BibTera is still in an early stage of development. It may have bugs making it unsuitable for production use yet. Use it at your own risk and please report any issues you encounter.**_.
 
 </details>
 
