@@ -2,7 +2,7 @@
 title = "BibTera"
 description = "A BibTeX translator using the Tera templating engine."
 date = 2026-04-22
-updated = 2026-04-27
+updated = 2026-05-12
 
 [taxonomies]
 tags = ["software", "rust", "bibtex", "tera", "template", "bibliography", "tool", "command-line-tool"]
@@ -29,7 +29,7 @@ BibTera is meant to work on Linux, including Windows Subsystem for Linux (WSL), 
 
 Always check the project's GitHub repository for the latest installation instructions and updates.
 
-_**BibTera is still in an early stage of development. It may have bugs making it unsuitable for production use yet. Use it at your own risk and please report any issues you encounter.**_.
+_**BibTera is still in an early stage of development. It may have bugs making it unsuitable for production use yet. Use it at your own risk and please report any issues you encounter.**_
 
 </details>
 
