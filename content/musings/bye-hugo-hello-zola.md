@@ -2,7 +2,7 @@
 title = "Goodbye, HugoBlox (and Hugo)! Hello, Zola!"
 description = "Finally, something better than HugoBlox!"
 date = 2026-04-18
-updated = 2026-04-22
+updated = 2026-05-25
 
 [taxonomies]
 tags = ["website", "static-site-generator", "zola"]
@@ -11,11 +11,11 @@ categories = ["tools-and-systems"]
 
 As of April 2026, I have updated my website after having waited for years for a better alternative to what I had been using. Here are my thoughts on the transition.
 
-## What happened?
+## What happened and why?
 
 I have been using [Hugo](https://gohugo.io/) as the static site generator (SSG) for my website since late 2018. I had started with the Hugo Academic theme, which was later renamed Wowchemy and eventually to [HugoBlox](https://hugoblox.com/). Initially, the Hugo Academic theme was great but with the theme's evolution, every major update to the theme as well as Hugo, itself, brought about breaking changes.
 
-In April 2026, I found out about [Zola](https://www.getzola.org/), a static site generator written in Rust, and decided to switch to it. I quote the creator of Zola -- [Vincent Prouillet](https://www.vincentprouillet.com/) --, below, which somewhat resonates with my frustrations with Hugo and HugoBlox.
+In April 2026, I found out about [Zola](https://www.getzola.org/), a static site generator written in Rust, and decided to switch to it. I quote the creator of Zola, [Vincent Prouillet](https://www.vincentprouillet.com/), below, which somewhat resonates with my frustrations with Hugo and HugoBlox.
 
 > This tool and its template engine tera were born from an intense dislike of the (insane) Golang template engine and therefore of Hugo that I was using before for 6+ sites.
 >
@@ -29,4 +29,4 @@ Given how frustrating my experience with Hugo had turned out to be, I decided to
 
 ## The future
 
-So far, so good but it is too early to tell how Zola and its themes evolve over time. Let's see how it unfolds.
+So far, so good but it is too early to tell how Zola and its themes evolve over time. A month on, and still no unpleasant surprises. Let's see how it unfolds.
