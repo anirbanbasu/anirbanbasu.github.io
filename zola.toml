@@ -92,6 +92,10 @@ favicon = "images/favicon.png"
 layout = "center"
 show_default_author = false
 
+# Refer to https://ghp-tapestry.anirbanbasu.com/docs
+presentation_style = "creative"
+presentation_variant = "bauhaus-studio"
+
 # Site-wide additional stylesheets and theme overrides
 stylesheets = ["css/sitewide-styles.css"]
 
