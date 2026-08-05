@@ -39,7 +39,7 @@ generate_sitemap = true
 # When set to "false", robots.txt is not generated
 generate_robots_txt = true
 
-theme = "terminus"
+theme = "tapestry"
 
 [search]
 # Whether to include the title of the page/section in the index
@@ -91,10 +91,11 @@ favicon = "images/favicon.png"
 # favicon_emoji = "👨‍💻"
 layout = "center"
 show_default_author = false
-
 # Refer to https://ghp-tapestry.anirbanbasu.com/docs
 presentation_style = "creative"
-presentation_variant = "bauhaus-studio"
+presentation_variant = "collage-mixed-media"
+presentation_style_switcher = false
+header_logo_accent_background = true
 
 # Site-wide additional stylesheets and theme overrides
 stylesheets = ["css/sitewide-styles.css"]
