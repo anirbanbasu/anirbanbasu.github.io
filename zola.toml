@@ -92,8 +92,8 @@ favicon = "images/favicon.png"
 layout = "center"
 show_default_author = false
 # Refer to https://ghp-tapestry.anirbanbasu.com/docs
-presentation_style = "scholarly"
-presentation_variant = "nordic-minimalist"
+presentation_style = "creative"
+presentation_variant = "collage-mixed-media"
 presentation_style_switcher = false
 header_logo_accent_background = true
 
