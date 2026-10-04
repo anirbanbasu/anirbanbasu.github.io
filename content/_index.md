@@ -18,7 +18,7 @@ stylesheets = ["css/page-styles.css"]
             <li>a computer science and artificial intelligence <a href="/research">researcher</a>, by profession;</li>
             <li>a software developer, by passion;</li>
             <li>a <a href="https://perspectives.anirbanbasu.com" target="_blank">photographer</a>, by hobby; and</li>
-            <li>an Indian classical music enthusiast, by heart.</li>
+            <li>an Indian classical music aficionado, at heart.</li>
         </ul>
         <a href="/files/cv.pdf" target="_blank"><button>2-page curriculum vitae/résumé (PDF)</button></a>
         </p>
