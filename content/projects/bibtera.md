@@ -15,7 +15,7 @@ The BibTeX format is a widely used format for managing bibliographic references 
 
 ## A bit of background
 
-{% alert(type="info", title="TLDR; want to install BibTera right away!") %}
+{% <alert type="info" title="TLDR; want to install BibTera right away!"> %}
  If you have the [Rust toolchain installed](https://rust-lang.org/tools/install/), run the following command in your terminal to install BibTera.
 
    ```bash
@@ -33,7 +33,7 @@ _**BibTera is still in an early stage of development. It may have bugs making it
 
 </details>
 
-{% end %}
+{% </alert> %}
 
 My older website generated using the Hugo static site generator and the academic theme had an add-on of sorts that could generate a list of publications from a BibTeX file containing one or more entries. However, the current theme of this website and the Zola static site generator does not have such a feature. Indeed, it is a feature that is not expected to be intrinsic to either the theme or the static site generator, and is better implemented as a separate tool that can be used with any static site generator or even in other contexts.
 
