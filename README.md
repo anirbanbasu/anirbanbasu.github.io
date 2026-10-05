@@ -12,7 +12,7 @@ Quick changes made through the GitHub web interface to the files in the `content
 To set up a development environment for the website, follow the instructions below.
 
 1. **Clone the Repository:**
-    If you haven't already, clone the ODIR repository to your local machine:
+    If you haven't already, clone the repository to your local machine:
 
    ```bash
    git clone https://github.com/anirbanbasu/anirbanbasu.github.io.git

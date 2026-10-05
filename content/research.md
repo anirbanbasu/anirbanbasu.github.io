@@ -12,11 +12,11 @@ With more than a decade of research experience within both academia and industry
 
 ## Publications
 
-{% alert(type="warning", title="Experimental subset of publications") %}
+{% <alert type="warning" title="Experimental subset of publications"> %}
 
 I am currently experimenting with a new way of presenting a subset of publications on this website, see [publications](/publications/). The publications are parsed from my BibTeX file and formatted using a custom template through a tool called [BibTera](projects/bibtera), which I am developing.
 
-{% end %}
+{% </alert> %}
 
 Click on the buttons below to see the publications list in reverse-chronological order by year or by type.
 
@@ -26,7 +26,7 @@ Click on the buttons below to see the publications list in reverse-chronological
 
 <a href="/files/cv.pdf" target="_blank"><button>2-page curriculum vitae/résumé (PDF)</button></a>
 
-{% alert(type="note", title="Broad research interests") %}
+{% <alert type="note" title="Broad research interests"> %}
 
 - Computational trust: in particular the decisional perspective of trust.
 - Artificial Intelligence (AI): trust and AI, local AI, neuro-symbolic AI, amongst others.
@@ -35,18 +35,18 @@ Click on the buttons below to see the publications list in reverse-chronological
 
 _Also, interested in a variety of other topics, which may be sometimes seen as distractions!_
 
-{% end %}
+{% </alert> %}
 
-{% alert(type="note", title="Current research affiliations") %}
+{% <alert type="note" title="Current research affiliations"> %}
 
 - _Senior Researcher_ at Hitachi R&D, Japan (2018-present)
 - [_Honorary Research Fellow_](https://profiles.sussex.ac.uk/p134568-anirban-basu) at the University of Sussex, UK (2010-present)
 
-{% end %}
+{% </alert> %}
 
-{% alert(type="note", title="Education") %}
+{% <alert type="note" title="Education"> %}
 
 - Doctor of Philosophy (DPhil) in Computer Science and Artificial Intelligence (_University of Sussex, UK_, 2010)
 - Bachelor of Engineering (BEng) in Computer Systems Engineering (_University of Sussex, UK_, 2004)
 
-{% end %}
+{% </alert> %}

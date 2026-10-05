@@ -15,7 +15,7 @@ categories = ["open-source"]
 
 ## A bit of background
 
-{% alert(type="info", title="TLDR; want to install ODIR right away!") %}
+{% <alert type="info" title="TLDR; want to install ODIR right away!"> %}
  If you have the [Rust toolchain installed](https://rust-lang.org/tools/install/), run the following command in your terminal to install ODIR.
 
    ```bash
@@ -37,7 +37,7 @@ Always check the project's GitHub repository for the latest installation instruc
 
 </details>
 
-{% end %}
+{% </alert> %}
 
 While `ollama pull <model:tag>` mostly works, there is a documented problem, see [issue 941](https://github.com/ollama/ollama/issues/941). The crux of the problem is that Ollama fails to pull a model with an error message as follows.
 
